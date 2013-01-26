@@ -1,0 +1,820 @@
+[04-Dec-2012 14:36:35 -0700]: IMAP Error: Login failed for mrhernandez@cbguadalajara.com from 189.169.73.177. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[04-Dec-2012 14:36:49 -0700]: IMAP Error: Login failed for mrhernandez@cbguadalajara.com from 189.169.73.177. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[04-Dec-2012 14:37:07 -0700]: IMAP Error: Login failed for mrhernandez@cbguadalajara.com from 189.169.73.177. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[04-Dec-2012 14:37:36 -0700]: IMAP Error: Login failed for mrhernandez@cbguadalajara.com from 189.169.73.177. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[05-Dec-2012 08:15:13 -0700]: IMAP Error: Login failed for afelix@cbguadalajara.com from 189.169.73.177. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[05-Dec-2012 08:36:07 -0700]: IMAP Error: Login failed for afelix@cbguadalajara.com from 189.169.73.177. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[05-Dec-2012 09:47:25 -0700]: IMAP Error: Login failed for soporte@cbguadalajara.com from 129.33.49.247. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[05-Dec-2012 09:47:33 -0700]: IMAP Error: Login failed for soporte@cbguadalajara.com from 129.33.49.247. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[05-Dec-2012 10:03:35 -0700]: IMAP Error: Login failed for vromo@cbguadalajara.com from 129.33.49.247. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[05-Dec-2012 13:38:04 -0700]: IMAP Error: Login failed for mrhernandez@cbguadalajara from 189.169.206.153. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[05-Dec-2012 13:38:27 -0700]: IMAP Error: Login failed for mrhernandez@cbguadalajara from 189.169.206.153. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[06-Dec-2012 16:23:36 -0700]: IMAP Error: Login failed for gbremer@cbguadalajara.com from 189.169.206.153. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[06-Dec-2012 16:24:00 -0700]: IMAP Error: Login failed for gbremer@cbguadalajara.com from 189.169.206.153. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[09-Dec-2012 21:59:23 -0700]: IMAP Error: Login failed for cb@cbguadalajara.com from 187.133.169.155. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[09-Dec-2012 22:00:16 -0700]: IMAP Error: Login failed for guillermina_correa@cbguadalajara.com from 187.133.169.155. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[09-Dec-2012 22:00:31 -0700]: IMAP Error: Login failed for guillermina_correa@cbguadalajara.com from 187.133.169.155. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[09-Dec-2012 22:00:45 -0700]: IMAP Error: Login failed for guillermina_correa@cbguadalajara.com from 187.133.169.155. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[09-Dec-2012 22:00:57 -0700]: IMAP Error: Login failed for guillermina_correa@cbguadalajara.com from 187.133.169.155. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[09-Dec-2012 22:01:36 -0700]: IMAP Error: Login failed for guille_correa@cbguadalajara.com from 187.133.169.155. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[09-Dec-2012 22:01:43 -0700]: IMAP Error: Login failed for guille_correa@cbguadalajara.com from 187.133.169.155. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[09-Dec-2012 22:02:12 -0700]: IMAP Error: Login failed for gcorrea@cbguadalajara.com from 187.133.169.155. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[10-Dec-2012 14:37:02 -0700]: IMAP Error: Login failed for lcaballero@cbguadalajara.com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[10-Dec-2012 14:37:19 -0700]: IMAP Error: Login failed for leticia_caballero@cbguadalajara.com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[10-Dec-2012 14:39:11 -0700]: IMAP Error: Login failed for lcaballero@cbguadalajara.com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[10-Dec-2012 14:39:16 -0700]: IMAP Error: Login failed for lcaballero@cbguadalajara.com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[10-Dec-2012 14:39:42 -0700]: IMAP Error: Login failed for lcaballero@cbguadalajara.com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[10-Dec-2012 15:52:19 -0700]: IMAP Error: Login failed for alfredo_carmona@cbguadalajara.com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[10-Dec-2012 15:52:41 -0700]: IMAP Error: Login failed for acarmona@cbguadalajara.com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[10-Dec-2012 16:00:33 -0700]: IMAP Error: Login failed for lmondragon@cbguadalajara.com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[11-Dec-2012 08:32:15 -0700]: IMAP Error: Login failed for leticia_rosas@cbguadalajara.com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[11-Dec-2012 08:32:30 -0700]: IMAP Error: Login failed for leticia_rosas@cbguadalajara.com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[11-Dec-2012 08:34:52 -0700]: IMAP Error: Login failed for lrosas@cbguadalajara.com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[11-Dec-2012 08:34:58 -0700]: IMAP Error: Login failed for lrosas@cbguadalajara.com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[11-Dec-2012 08:35:46 -0700]: IMAP Error: Login failed for lrosas@cbguadalajara.com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[11-Dec-2012 14:12:57 -0700]: IMAP Error: Login failed for ijimenez@cbguadalajara from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[11-Dec-2012 14:13:20 -0700]: IMAP Error: Login failed for ijimenez@cbguadalajara.com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[11-Dec-2012 19:02:06 -0700]: IMAP Error: Login failed for bbeltran@cbguadalajara.com from 187.246.50.207. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[12-Dec-2012 16:44:50 UTC] PHP Warning:  mail() [<a href='function.mail'>function.mail</a>]: Bad parameters to mail() function, mail not sent. in /home/content/63/10156063/html/correo/program/include/main.inc on line 1529
+[12-Dec-2012 16:45:00 UTC] PHP Warning:  mail() [<a href='function.mail'>function.mail</a>]: Bad parameters to mail() function, mail not sent. in /home/content/63/10156063/html/correo/program/include/main.inc on line 1529
+[12-Dec-2012 16:48:10 UTC] PHP Warning:  mail() [<a href='function.mail'>function.mail</a>]: Bad parameters to mail() function, mail not sent. in /home/content/63/10156063/html/correo/program/include/main.inc on line 1529
+[12-Dec-2012 16:51:20 UTC] PHP Warning:  mail() [<a href='function.mail'>function.mail</a>]: Bad parameters to mail() function, mail not sent. in /home/content/63/10156063/html/correo/program/include/main.inc on line 1529
+[12-Dec-2012 16:51:54 UTC] PHP Warning:  mail() [<a href='function.mail'>function.mail</a>]: Bad parameters to mail() function, mail not sent. in /home/content/63/10156063/html/correo/program/include/main.inc on line 1529
+[12-Dec-2012 10:47:02 -0700]: IMAP Error: Login failed for lmondragon_cbguadalajara.com@cbguadalajara.com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[12-Dec-2012 16:51:59 -0700]: IMAP Error: Login failed for rvega@cbguadalajara from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[12-Dec-2012 16:52:15 -0700]: IMAP Error: Login failed for rvega@cbguadalajara from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[12-Dec-2012 16:52:31 -0700]: IMAP Error: Login failed for rvega@cbguadalajara.com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[12-Dec-2012 21:16:17 -0700]: IMAP Error: Login failed for gcorrea@cbguadalajara.com from 189.169.108.192. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[12-Dec-2012 21:16:24 -0700]: IMAP Error: Login failed for gcorrea@cbguadalajara.com from 189.169.108.192. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[12-Dec-2012 21:16:50 -0700]: IMAP Error: Login failed for gcorrea@cbguadalajara.com from 189.169.108.192. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[12-Dec-2012 21:17:01 -0700]: IMAP Error: Login failed for gcorrea@cbguadalajara.com from 189.169.108.192. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[13-Dec-2012 09:29:57 -0700]: IMAP Error: Login failed for lrosas@cbgudalajara.com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[13-Dec-2012 09:30:14 -0700]: IMAP Error: Login failed for lrosas@cbgudalajara.com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[13-Dec-2012 12:29:58 -0700]: IMAP Error: Login failed for leticia_rosas@cbguadalajara.com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[17-Dec-2012 11:35:34 -0700]: IMAP Error: Login failed for fmuleiro@cbguadalajara.com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[17-Dec-2012 11:35:51 -0700]: IMAP Error: Login failed for fmuleiro@cbguadalajara.com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[17-Dec-2012 11:36:33 -0700]: IMAP Error: Login failed for fmuleiro@cbguadalajara.com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[17-Dec-2012 11:37:15 -0700]: IMAP Error: Login failed for francisco_muleiro@cbguadalajara.com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[17-Dec-2012 11:37:34 -0700]: IMAP Error: Login failed for fmuleiro@cbguadalajara.com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[17-Dec-2012 11:37:55 -0700]: IMAP Error: Login failed for fmuleiro@cbguadalajara.com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[17-Dec-2012 14:30:23 -0700]: IMAP Error: Login failed for fmuleiro@cbguadalajara.com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[17-Dec-2012 14:30:55 -0700]: IMAP Error: Login failed for fmuleiro@cbguadalajara.com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[17-Dec-2012 21:32:01 UTC] PHP Warning:  mail() [<a href='function.mail'>function.mail</a>]: Bad parameters to mail() function, mail not sent. in /home/content/63/10156063/html/correo/program/include/main.inc on line 1529
+[17-Dec-2012 21:32:16 UTC] PHP Warning:  mail() [<a href='function.mail'>function.mail</a>]: Bad parameters to mail() function, mail not sent. in /home/content/63/10156063/html/correo/program/include/main.inc on line 1529
+[17-Dec-2012 21:32:38 UTC] PHP Warning:  mail() [<a href='function.mail'>function.mail</a>]: Bad parameters to mail() function, mail not sent. in /home/content/63/10156063/html/correo/program/include/main.inc on line 1529
+[18-Dec-2012 08:48:47 -0700]: IMAP Error: Login failed for lrosas@cbguadalajara.com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[18-Dec-2012 08:48:57 -0700]: IMAP Error: Login failed for lrosas@cbguadalajara.com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[18-Dec-2012 16:11:52 -0700]: IMAP Error: Login failed for leticia_caballero@cbguadalajara.com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[18-Dec-2012 16:13:36 -0700]: IMAP Error: Login failed for leticia_caballero@cbguadalajara.com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[18-Dec-2012 16:13:43 -0700]: IMAP Error: Login failed for leticia_caballero@cbguadalajara.com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[19-Dec-2012 11:51:41 -0700]: IMAP Error: Login failed for ymancilla@cbguadalajara.com from 189.169.61.76. Could not connect to imap.secureserver.net:143: Expiró el tiempo de conexión in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=mail&_action=moveto?_task=&_action=)
+[19-Dec-2012 18:51:41 UTC] MDB2 Error: unknown error (-1): _doQuery: [Error message: Could not execute statement]
+[Last executed query: PREPARE mdb2_statement_mysql_356cbf14ca4b7b1b806688b98b30968821d71a0bd FROM 'SELECT vars, ip, changed FROM session WHERE sess_id = ?']
+[Native code: 2006]
+[Native message: MySQL server has gone away]
+
+[19-Dec-2012 11:51:41 -0700]: DB Error: _doQuery: [Error message: Could not execute statement]
+[Last executed query: PREPARE mdb2_statement_mysql_356cbf14ca4b7b1b806688b98b30968821d71a0bd FROM 'SELECT vars, ip, changed FROM session WHERE sess_id = ?']
+[Native code: 2006]
+[Native message: MySQL server has gone away]
+ in /home/content/63/10156063/html/correo/program/include/rcube_mdb2.php on line 296 (POST /?_task=mail&_action=moveto?_task=&_action=)
+[19-Dec-2012 18:51:41 UTC] MDB2 Error: unknown error (-1): _doQuery: [Error message: Could not execute statement]
+[Last executed query: PREPARE mdb2_statement_mysql_49c320360f02fa677c057814a3466267aeb71f460 FROM 'INSERT INTO session (sess_id, vars, ip, created, changed) VALUES (?, ?, ?, \'2012-12-19 11:51:41\', \'2012-12-19 11:51:41\')']
+[Native code: 2006]
+[Native message: MySQL server has gone away]
+
+[19-Dec-2012 11:51:41 -0700]: DB Error: _doQuery: [Error message: Could not execute statement]
+[Last executed query: PREPARE mdb2_statement_mysql_49c320360f02fa677c057814a3466267aeb71f460 FROM 'INSERT INTO session (sess_id, vars, ip, created, changed) VALUES (?, ?, ?, \'2012-12-19 11:51:41\', \'2012-12-19 11:51:41\')']
+[Native code: 2006]
+[Native message: MySQL server has gone away]
+ in /home/content/63/10156063/html/correo/program/include/rcube_mdb2.php on line 296 (POST /?_task=mail&_action=moveto?_task=&_action=)
+[19-Dec-2012 16:22:17 -0700]: IMAP Error: Login failed for gbremer@cbguadalajara.com from 189.169.61.76. Could not connect to imap.secureserver.net:143: Expiró el tiempo de conexión in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (GET /?_task=mail&_action=check-recent&_mbox=INBOX&_remote=1&_unlock=0&_=1355959279039)
+[19-Dec-2012 23:22:17 UTC] MDB2 Error: unknown error (-1): _doQuery: [Error message: Could not execute statement]
+[Last executed query: PREPARE mdb2_statement_mysql_336a9ccaf8ccf292e22f608c98a4d94e1cf3e0aef FROM 'SELECT vars, ip, changed FROM session WHERE sess_id = ?']
+[Native code: 2006]
+[Native message: MySQL server has gone away]
+
+[19-Dec-2012 16:22:17 -0700]: DB Error: _doQuery: [Error message: Could not execute statement]
+[Last executed query: PREPARE mdb2_statement_mysql_336a9ccaf8ccf292e22f608c98a4d94e1cf3e0aef FROM 'SELECT vars, ip, changed FROM session WHERE sess_id = ?']
+[Native code: 2006]
+[Native message: MySQL server has gone away]
+ in /home/content/63/10156063/html/correo/program/include/rcube_mdb2.php on line 296 (GET /?_task=mail&_action=check-recent&_mbox=INBOX&_remote=1&_unlock=0&_=1355959279039)
+[19-Dec-2012 23:22:17 UTC] MDB2 Error: unknown error (-1): _doQuery: [Error message: Could not execute statement]
+[Last executed query: PREPARE mdb2_statement_mysql_473b608bf060872f5b1302d2ff7dc2211eaaef471 FROM 'INSERT INTO session (sess_id, vars, ip, created, changed) VALUES (?, ?, ?, \'2012-12-19 16:22:17\', \'2012-12-19 16:22:17\')']
+[Native code: 2006]
+[Native message: MySQL server has gone away]
+
+[19-Dec-2012 16:22:17 -0700]: DB Error: _doQuery: [Error message: Could not execute statement]
+[Last executed query: PREPARE mdb2_statement_mysql_473b608bf060872f5b1302d2ff7dc2211eaaef471 FROM 'INSERT INTO session (sess_id, vars, ip, created, changed) VALUES (?, ?, ?, \'2012-12-19 16:22:17\', \'2012-12-19 16:22:17\')']
+[Native code: 2006]
+[Native message: MySQL server has gone away]
+ in /home/content/63/10156063/html/correo/program/include/rcube_mdb2.php on line 296 (GET /?_task=mail&_action=check-recent&_mbox=INBOX&_remote=1&_unlock=0&_=1355959279039)
+[19-Dec-2012 16:25:24 -0700]: IMAP Error: Login failed for jsaldana@cbguadalajara.com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[20-Dec-2012 08:46:08 -0700]: IMAP Error: Login failed for rfranco@cbguadalajara.com from 189.169.61.76. Could not connect to imap.secureserver.net:143: Expiró el tiempo de conexión in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (GET /?_task=mail&_action=check-recent&_mbox=INBOX&_list=1&_remote=1&_unlock=0&_=1356018313260)
+[20-Dec-2012 09:00:38 -0700]: IMAP Error: Login failed for rfranco@cbguadalajara.com from 189.169.61.76. Could not connect to imap.secureserver.net:143: Expiró el tiempo de conexión in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (GET /?_task=mail&_action=check-recent&_mbox=INBOX&_list=1&_remote=1&_unlock=0&_=1356019183344)
+[20-Dec-2012 16:00:38 UTC] MDB2 Error: unknown error (-1): _doQuery: [Error message: Could not execute statement]
+[Last executed query: PREPARE mdb2_statement_mysql_3bd71d341bc458958479366f55847414b15bd3f92 FROM 'SELECT vars, ip, changed FROM session WHERE sess_id = ?']
+[Native code: 2006]
+[Native message: MySQL server has gone away]
+
+[20-Dec-2012 09:00:38 -0700]: DB Error: _doQuery: [Error message: Could not execute statement]
+[Last executed query: PREPARE mdb2_statement_mysql_3bd71d341bc458958479366f55847414b15bd3f92 FROM 'SELECT vars, ip, changed FROM session WHERE sess_id = ?']
+[Native code: 2006]
+[Native message: MySQL server has gone away]
+ in /home/content/63/10156063/html/correo/program/include/rcube_mdb2.php on line 296 (GET /?_task=mail&_action=check-recent&_mbox=INBOX&_list=1&_remote=1&_unlock=0&_=1356019183344)
+[20-Dec-2012 16:00:38 UTC] MDB2 Error: unknown error (-1): _doQuery: [Error message: Could not execute statement]
+[Last executed query: PREPARE mdb2_statement_mysql_4e1fab7cbc2feaac6544ded01bff7bdb02132f229 FROM 'INSERT INTO session (sess_id, vars, ip, created, changed) VALUES (?, ?, ?, \'2012-12-20 09:00:38\', \'2012-12-20 09:00:38\')']
+[Native code: 2006]
+[Native message: MySQL server has gone away]
+
+[20-Dec-2012 09:00:38 -0700]: DB Error: _doQuery: [Error message: Could not execute statement]
+[Last executed query: PREPARE mdb2_statement_mysql_4e1fab7cbc2feaac6544ded01bff7bdb02132f229 FROM 'INSERT INTO session (sess_id, vars, ip, created, changed) VALUES (?, ?, ?, \'2012-12-20 09:00:38\', \'2012-12-20 09:00:38\')']
+[Native code: 2006]
+[Native message: MySQL server has gone away]
+ in /home/content/63/10156063/html/correo/program/include/rcube_mdb2.php on line 296 (GET /?_task=mail&_action=check-recent&_mbox=INBOX&_list=1&_remote=1&_unlock=0&_=1356019183344)
+[20-Dec-2012 10:46:28 -0700]: IMAP Error: Login failed for ymancilla@cbguadalajara.com from 189.169.61.76. Could not connect to imap.secureserver.net:143: Expiró el tiempo de conexión in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (GET /?_task=mail&_action=check-recent&_mbox=INBOX&_remote=1&_unlock=0&_=1356025530637)
+[20-Dec-2012 11:10:08 -0700]: IMAP Error: Login failed for rfranco@cbguadalajara.com from 189.169.61.76. Could not connect to imap.secureserver.net:143: Expiró el tiempo de conexión in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (GET /?_task=mail&_mbox=INBOX&_refresh=1)
+[20-Dec-2012 18:10:08 UTC] MDB2 Error: unknown error (-1): _doQuery: [Error message: Could not execute statement]
+[Last executed query: PREPARE mdb2_statement_mysql_34f8aafcfb841276c043759ca5ecbf4af1c280df9 FROM 'SELECT vars, ip, changed FROM session WHERE sess_id = ?']
+[Native code: 2006]
+[Native message: MySQL server has gone away]
+
+[20-Dec-2012 11:10:08 -0700]: DB Error: _doQuery: [Error message: Could not execute statement]
+[Last executed query: PREPARE mdb2_statement_mysql_34f8aafcfb841276c043759ca5ecbf4af1c280df9 FROM 'SELECT vars, ip, changed FROM session WHERE sess_id = ?']
+[Native code: 2006]
+[Native message: MySQL server has gone away]
+ in /home/content/63/10156063/html/correo/program/include/rcube_mdb2.php on line 296 (GET /?_task=mail&_mbox=INBOX&_refresh=1)
+[20-Dec-2012 18:10:08 UTC] MDB2 Error: unknown error (-1): _doQuery: [Error message: Could not execute statement]
+[Last executed query: PREPARE mdb2_statement_mysql_4e10ce272cf0cc7556540cf3acb5e23c73f0ceac1 FROM 'INSERT INTO session (sess_id, vars, ip, created, changed) VALUES (?, ?, ?, \'2012-12-20 11:10:08\', \'2012-12-20 11:10:08\')']
+[Native code: 2006]
+[Native message: MySQL server has gone away]
+
+[20-Dec-2012 11:10:08 -0700]: DB Error: _doQuery: [Error message: Could not execute statement]
+[Last executed query: PREPARE mdb2_statement_mysql_4e10ce272cf0cc7556540cf3acb5e23c73f0ceac1 FROM 'INSERT INTO session (sess_id, vars, ip, created, changed) VALUES (?, ?, ?, \'2012-12-20 11:10:08\', \'2012-12-20 11:10:08\')']
+[Native code: 2006]
+[Native message: MySQL server has gone away]
+ in /home/content/63/10156063/html/correo/program/include/rcube_mdb2.php on line 296 (GET /?_task=mail&_mbox=INBOX&_refresh=1)
+[20-Dec-2012 11:12:31 -0700]: IMAP Error: Login failed for rfranco@cbguadalajara.com from 189.169.61.76. Could not connect to imap.secureserver.net:143: Expiró el tiempo de conexión in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (GET /?_task=mail&_action=list&_mbox=INBOX&_refresh=1&_remote=1&_unlock=loading1356027097349&_=1356027097356)
+[20-Dec-2012 18:12:31 UTC] MDB2 Error: unknown error (-1): _doQuery: [Error message: Could not execute statement]
+[Last executed query: PREPARE mdb2_statement_mysql_3db0cd32799551589028347af244d2a30e605bee1 FROM 'SELECT vars, ip, changed FROM session WHERE sess_id = ?']
+[Native code: 2006]
+[Native message: MySQL server has gone away]
+
+[20-Dec-2012 11:12:31 -0700]: DB Error: _doQuery: [Error message: Could not execute statement]
+[Last executed query: PREPARE mdb2_statement_mysql_3db0cd32799551589028347af244d2a30e605bee1 FROM 'SELECT vars, ip, changed FROM session WHERE sess_id = ?']
+[Native code: 2006]
+[Native message: MySQL server has gone away]
+ in /home/content/63/10156063/html/correo/program/include/rcube_mdb2.php on line 296 (GET /?_task=mail&_action=list&_mbox=INBOX&_refresh=1&_remote=1&_unlock=loading1356027097349&_=1356027097356)
+[20-Dec-2012 18:12:31 UTC] MDB2 Error: unknown error (-1): _doQuery: [Error message: Could not execute statement]
+[Last executed query: PREPARE mdb2_statement_mysql_47b0f2dfae6d852c7c510d9714795c2f3f49e963f FROM 'INSERT INTO session (sess_id, vars, ip, created, changed) VALUES (?, ?, ?, \'2012-12-20 11:12:31\', \'2012-12-20 11:12:31\')']
+[Native code: 2006]
+[Native message: MySQL server has gone away]
+
+[20-Dec-2012 11:12:31 -0700]: DB Error: _doQuery: [Error message: Could not execute statement]
+[Last executed query: PREPARE mdb2_statement_mysql_47b0f2dfae6d852c7c510d9714795c2f3f49e963f FROM 'INSERT INTO session (sess_id, vars, ip, created, changed) VALUES (?, ?, ?, \'2012-12-20 11:12:31\', \'2012-12-20 11:12:31\')']
+[Native code: 2006]
+[Native message: MySQL server has gone away]
+ in /home/content/63/10156063/html/correo/program/include/rcube_mdb2.php on line 296 (GET /?_task=mail&_action=list&_mbox=INBOX&_refresh=1&_remote=1&_unlock=loading1356027097349&_=1356027097356)
+[20-Dec-2012 12:28:37 -0700]: IMAP Error: Login failed for rfranco@cbguadalajara.com from 189.169.61.76. Could not connect to imap.secureserver.net:143: Expiró el tiempo de conexión in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (GET /?_task=mail&_action=check-recent&_mbox=INBOX&_list=1&_remote=1&_unlock=0&_=1356031663147)
+[20-Dec-2012 23:12:09 UTC] PHP Warning:  mail() [<a href='function.mail'>function.mail</a>]: Bad parameters to mail() function, mail not sent. in /home/content/63/10156063/html/correo/program/include/main.inc on line 1529
+[21-Dec-2012 10:41:35 -0700]: IMAP Error: Login failed for ymancolla@cbguadalajara.com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[21-Dec-2012 10:41:47 -0700]: IMAP Error: Login failed for ymancolla@cbguadalajara.com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[22-Dec-2012 10:07:15 -0700]: IMAP Error: Login failed for ramon_vega 726668@cbguadalajara.com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[22-Dec-2012 10:17:54 -0700]: IMAP Error: Login failed for jgalvan@cbgauadalajara.com from 187.139.75.63. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[22-Dec-2012 10:18:10 -0700]: IMAP Error: Login failed for jgalvan@cbgauadalajara.com from 187.139.75.63. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[22-Dec-2012 10:19:11 -0700]: IMAP Error: Login failed for jgalvan@cbgauadalajara.com from 187.139.75.63. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[22-Dec-2012 10:20:16 -0700]: IMAP Error: Login failed for jgalvan@cbgauadalajara.com from 187.139.75.63. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[22-Dec-2012 10:20:29 -0700]: IMAP Error: Login failed for jgalvan@cbgauadalajara.com from 187.139.75.63. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[24-Dec-2012 11:15:56 -0700]: IMAP Error: Login failed for lmondragon@cbguadalajara.com.mx from 187.246.56.143. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[24-Dec-2012 11:16:06 -0700]: IMAP Error: Login failed for lmondragon@cbguadalajara.com.mx from 187.246.56.143. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[26-Dec-2012 08:31:17 -0700]: IMAP Error: Login failed for juana_saldania@cbguadalajara.com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[26-Dec-2012 08:31:37 -0700]: IMAP Error: Login failed for juana_saldania@cbguadalajara.com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[26-Dec-2012 08:32:59 -0700]: IMAP Error: Login failed for jsaldana@cbguadalajara.com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[26-Dec-2012 08:33:16 -0700]: IMAP Error: Login failed for jsaldana@cbguadalajara.com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[26-Dec-2012 10:07:09 -0700]: IMAP Error: Login failed for jperez@cbguadalajara.com from 187.245.8.106. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[26-Dec-2012 10:07:36 -0700]: IMAP Error: Login failed for jperez@cbguadalajara.com from 187.245.8.106. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[26-Dec-2012 10:08:56 -0700]: IMAP Error: Login failed for jperez@cbguadalajara.com from 187.245.8.106. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[26-Dec-2012 10:09:24 -0700]: IMAP Error: Login failed for jperez@cbguadalajara.com from 187.245.8.106. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[26-Dec-2012 10:16:09 -0700]: IMAP Error: Login failed for jperez@cbguadalajara.com from 187.245.8.106. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[27-Dec-2012 09:53:06 -0700]: IMAP Error: Login failed for malvarez@cbguadalajaara.com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[27-Dec-2012 18:19:02 UTC] PHP Warning:  mail() [<a href='function.mail'>function.mail</a>]: Bad parameters to mail() function, mail not sent. in /home/content/63/10156063/html/correo/program/include/main.inc on line 1529
+[27-Dec-2012 18:19:31 UTC] PHP Warning:  mail() [<a href='function.mail'>function.mail</a>]: Bad parameters to mail() function, mail not sent. in /home/content/63/10156063/html/correo/program/include/main.inc on line 1529
+[27-Dec-2012 18:20:25 UTC] PHP Warning:  mail() [<a href='function.mail'>function.mail</a>]: Bad parameters to mail() function, mail not sent. in /home/content/63/10156063/html/correo/program/include/main.inc on line 1529
+[27-Dec-2012 12:52:31 -0700]: IMAP Error: Login failed for rfranco@cbguadalajara.com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[27-Dec-2012 12:52:55 -0700]: IMAP Error: Login failed for rfranco@cbguadalajara.com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[28-Dec-2012 14:17:50 -0700]: IMAP Error: Login failed for jpaerez@cbguadalajara.com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[28-Dec-2012 14:18:02 -0700]: IMAP Error: Login failed for jperez@cbguadalajara.com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[28-Dec-2012 23:07:00 UTC] PHP Warning:  mail() [<a href='function.mail'>function.mail</a>]: Bad parameters to mail() function, mail not sent. in /home/content/63/10156063/html/correo/program/include/main.inc on line 1529
+[28-Dec-2012 23:07:37 UTC] PHP Warning:  mail() [<a href='function.mail'>function.mail</a>]: Bad parameters to mail() function, mail not sent. in /home/content/63/10156063/html/correo/program/include/main.inc on line 1529
+[28-Dec-2012 23:07:42 UTC] PHP Warning:  mail() [<a href='function.mail'>function.mail</a>]: Bad parameters to mail() function, mail not sent. in /home/content/63/10156063/html/correo/program/include/main.inc on line 1529
+[28-Dec-2012 23:08:11 UTC] PHP Warning:  mail() [<a href='function.mail'>function.mail</a>]: Bad parameters to mail() function, mail not sent. in /home/content/63/10156063/html/correo/program/include/main.inc on line 1529
+[28-Dec-2012 23:08:56 UTC] PHP Warning:  mail() [<a href='function.mail'>function.mail</a>]: Bad parameters to mail() function, mail not sent. in /home/content/63/10156063/html/correo/program/include/main.inc on line 1529
+[28-Dec-2012 23:09:21 UTC] PHP Warning:  mail() [<a href='function.mail'>function.mail</a>]: Bad parameters to mail() function, mail not sent. in /home/content/63/10156063/html/correo/program/include/main.inc on line 1529
+[29-Dec-2012 00:53:40 UTC] PHP Warning:  mail() [<a href='function.mail'>function.mail</a>]: Bad parameters to mail() function, mail not sent. in /home/content/63/10156063/html/correo/program/include/main.inc on line 1529
+[29-Dec-2012 00:53:42 UTC] PHP Warning:  mail() [<a href='function.mail'>function.mail</a>]: Bad parameters to mail() function, mail not sent. in /home/content/63/10156063/html/correo/program/include/main.inc on line 1529
+[28-Dec-2012 20:30:53 -0700]: IMAP Error: Login failed for gorrea@cbguadalajara.com from 189.169.114.70. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[28-Dec-2012 20:32:14 -0700]: IMAP Error: Login failed for gorrea@cbguadalajara.comn from 189.169.114.70. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[31-Dec-2012 16:41:13 -0700]: IMAP Error: Login failed for jperez@cbguadalajara.com from 187.245.8.106. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[02-Jan-2013 10:14:15 -0700]: IMAP Error: Login failed for rvega@cbguadalajara.com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[02-Jan-2013 10:16:09 -0700]: IMAP Error: Login failed for rvega@cbguadalajara from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[02-Jan-2013 10:16:21 -0700]: IMAP Error: Login failed for rvega@cbguadalajara from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[02-Jan-2013 14:42:05 -0700]: IMAP Error: Login failed for rvega@cbcuadalajara.com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[02-Jan-2013 14:42:15 -0700]: IMAP Error: Login failed for rvega@cbcuadalajara.com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[02-Jan-2013 14:42:45 -0700]: IMAP Error: Login failed for rvega@cbcuadalajara.com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[02-Jan-2013 14:43:07 -0700]: IMAP Error: Login failed for rvega@cbcuadalajara.com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[02-Jan-2013 15:47:39 -0700]: IMAP Error: Login failed for gcorreo@cbguadalajara.com from 189.169.114.70. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[03-Jan-2013 16:16:01 UTC] MDB2 Error: unknown error (-1): _doQuery: [Error message: Could not execute statement]
+[Last executed query: PREPARE mdb2_statement_mysql_31f7ef1e246353b2308b3928b65ecc5762822e526 FROM 'SELECT vars, ip, changed FROM session WHERE sess_id = ?']
+[Native code: 2006]
+[Native message: MySQL server has gone away]
+
+[03-Jan-2013 09:16:01 -0700]: DB Error: _doQuery: [Error message: Could not execute statement]
+[Last executed query: PREPARE mdb2_statement_mysql_31f7ef1e246353b2308b3928b65ecc5762822e526 FROM 'SELECT vars, ip, changed FROM session WHERE sess_id = ?']
+[Native code: 2006]
+[Native message: MySQL server has gone away]
+ in /home/content/63/10156063/html/correo/program/include/rcube_mdb2.php on line 296 (GET /?_task=mail&_action=getunread&&_remote=1&_unlock=0&_=1357229678651)
+[03-Jan-2013 16:16:01 UTC] MDB2 Error: unknown error (-1): _doQuery: [Error message: Could not execute statement]
+[Last executed query: PREPARE mdb2_statement_mysql_4d91c40ddae7affeca538af83b02a59c0251a04fc FROM 'INSERT INTO session (sess_id, vars, ip, created, changed) VALUES (?, ?, ?, \'2013-01-03 09:16:01\', \'2013-01-03 09:16:01\')']
+[Native code: 2006]
+[Native message: MySQL server has gone away]
+
+[03-Jan-2013 09:16:01 -0700]: DB Error: _doQuery: [Error message: Could not execute statement]
+[Last executed query: PREPARE mdb2_statement_mysql_4d91c40ddae7affeca538af83b02a59c0251a04fc FROM 'INSERT INTO session (sess_id, vars, ip, created, changed) VALUES (?, ?, ?, \'2013-01-03 09:16:01\', \'2013-01-03 09:16:01\')']
+[Native code: 2006]
+[Native message: MySQL server has gone away]
+ in /home/content/63/10156063/html/correo/program/include/rcube_mdb2.php on line 296 (GET /?_task=mail&_action=getunread&&_remote=1&_unlock=0&_=1357229678651)
+[03-Jan-2013 16:16:07 UTC] MDB2 Error: unknown error (-1): _doQuery: [Error message: Could not execute statement]
+[Last executed query: PREPARE mdb2_statement_mysql_3b4b70ae4fc0279b11bf5d230308551554d9eafa1 FROM 'SELECT vars, ip, changed FROM session WHERE sess_id = ?']
+[Native code: 2006]
+[Native message: MySQL server has gone away]
+
+[03-Jan-2013 09:16:07 -0700]: DB Error: _doQuery: [Error message: Could not execute statement]
+[Last executed query: PREPARE mdb2_statement_mysql_3b4b70ae4fc0279b11bf5d230308551554d9eafa1 FROM 'SELECT vars, ip, changed FROM session WHERE sess_id = ?']
+[Native code: 2006]
+[Native message: MySQL server has gone away]
+ in /home/content/63/10156063/html/correo/program/include/rcube_mdb2.php on line 296 (GET /?_task=mail&_action=list&_mbox=INBOX&_refresh=1&_remote=1&_unlock=loading1357229678644&_=1357229678647)
+[03-Jan-2013 16:16:07 UTC] MDB2 Error: unknown error (-1): _doQuery: [Error message: Could not execute statement]
+[Last executed query: PREPARE mdb2_statement_mysql_41b14b7a67de81817d7ca105ae938eb57fc183464 FROM 'INSERT INTO session (sess_id, vars, ip, created, changed) VALUES (?, ?, ?, \'2013-01-03 09:16:07\', \'2013-01-03 09:16:07\')']
+[Native code: 2006]
+[Native message: MySQL server has gone away]
+
+[03-Jan-2013 09:16:07 -0700]: DB Error: _doQuery: [Error message: Could not execute statement]
+[Last executed query: PREPARE mdb2_statement_mysql_41b14b7a67de81817d7ca105ae938eb57fc183464 FROM 'INSERT INTO session (sess_id, vars, ip, created, changed) VALUES (?, ?, ?, \'2013-01-03 09:16:07\', \'2013-01-03 09:16:07\')']
+[Native code: 2006]
+[Native message: MySQL server has gone away]
+ in /home/content/63/10156063/html/correo/program/include/rcube_mdb2.php on line 296 (GET /?_task=mail&_action=list&_mbox=INBOX&_refresh=1&_remote=1&_unlock=loading1357229678644&_=1357229678647)
+[03-Jan-2013 16:20:39 UTC] MDB2 Error: unknown error (-1): _doQuery: [Error message: Could not execute statement]
+[Last executed query: PREPARE mdb2_statement_mysql_380cc6a5be8dbb96f511d0b47dd098e5f79888e1d FROM 'SELECT vars, ip, changed FROM session WHERE sess_id = ?']
+[Native code: 2006]
+[Native message: MySQL server has gone away]
+
+[03-Jan-2013 09:20:39 -0700]: DB Error: _doQuery: [Error message: Could not execute statement]
+[Last executed query: PREPARE mdb2_statement_mysql_380cc6a5be8dbb96f511d0b47dd098e5f79888e1d FROM 'SELECT vars, ip, changed FROM session WHERE sess_id = ?']
+[Native code: 2006]
+[Native message: MySQL server has gone away]
+ in /home/content/63/10156063/html/correo/program/include/rcube_mdb2.php on line 296 (GET /?_task=mail&_action=list&_mbox=INBOX&_refresh=1&_remote=1&_unlock=loading1357229973291&_=1357229973295)
+[03-Jan-2013 16:20:39 UTC] MDB2 Error: unknown error (-1): _doQuery: [Error message: Could not execute statement]
+[Last executed query: PREPARE mdb2_statement_mysql_4f8943dc801d2bdcacf74d863a8bb93b2c7b68f06 FROM 'INSERT INTO session (sess_id, vars, ip, created, changed) VALUES (?, ?, ?, \'2013-01-03 09:20:39\', \'2013-01-03 09:20:39\')']
+[Native code: 2006]
+[Native message: MySQL server has gone away]
+
+[03-Jan-2013 09:20:39 -0700]: DB Error: _doQuery: [Error message: Could not execute statement]
+[Last executed query: PREPARE mdb2_statement_mysql_4f8943dc801d2bdcacf74d863a8bb93b2c7b68f06 FROM 'INSERT INTO session (sess_id, vars, ip, created, changed) VALUES (?, ?, ?, \'2013-01-03 09:20:39\', \'2013-01-03 09:20:39\')']
+[Native code: 2006]
+[Native message: MySQL server has gone away]
+ in /home/content/63/10156063/html/correo/program/include/rcube_mdb2.php on line 296 (GET /?_task=mail&_action=list&_mbox=INBOX&_refresh=1&_remote=1&_unlock=loading1357229973291&_=1357229973295)
+[03-Jan-2013 16:31:39 UTC] MDB2 Error: unknown error (-1): _doQuery: [Error message: Could not execute statement]
+[Last executed query: PREPARE mdb2_statement_mysql_39dd69f48203a3687aa7f7fffd12bae1f8ab52823 FROM 'SELECT vars, ip, changed FROM session WHERE sess_id = ?']
+[Native code: 2006]
+[Native message: MySQL server has gone away]
+
+[03-Jan-2013 09:31:39 -0700]: DB Error: _doQuery: [Error message: Could not execute statement]
+[Last executed query: PREPARE mdb2_statement_mysql_39dd69f48203a3687aa7f7fffd12bae1f8ab52823 FROM 'SELECT vars, ip, changed FROM session WHERE sess_id = ?']
+[Native code: 2006]
+[Native message: MySQL server has gone away]
+ in /home/content/63/10156063/html/correo/program/include/rcube_mdb2.php on line 296 (GET /?_task=mail&_action=list&_mbox=INBOX&_refresh=1&_remote=1&_unlock=loading1357230635967&_=1357230635971)
+[03-Jan-2013 16:31:39 UTC] MDB2 Error: unknown error (-1): _doQuery: [Error message: Could not execute statement]
+[Last executed query: PREPARE mdb2_statement_mysql_4aedb311f5049d13f32cb658a0ec869deec157441 FROM 'INSERT INTO session (sess_id, vars, ip, created, changed) VALUES (?, ?, ?, \'2013-01-03 09:31:39\', \'2013-01-03 09:31:39\')']
+[Native code: 2006]
+[Native message: MySQL server has gone away]
+
+[03-Jan-2013 09:31:39 -0700]: DB Error: _doQuery: [Error message: Could not execute statement]
+[Last executed query: PREPARE mdb2_statement_mysql_4aedb311f5049d13f32cb658a0ec869deec157441 FROM 'INSERT INTO session (sess_id, vars, ip, created, changed) VALUES (?, ?, ?, \'2013-01-03 09:31:39\', \'2013-01-03 09:31:39\')']
+[Native code: 2006]
+[Native message: MySQL server has gone away]
+ in /home/content/63/10156063/html/correo/program/include/rcube_mdb2.php on line 296 (GET /?_task=mail&_action=list&_mbox=INBOX&_refresh=1&_remote=1&_unlock=loading1357230635967&_=1357230635971)
+[03-Jan-2013 16:33:07 UTC] MDB2 Error: unknown error (-1): _doQuery: [Error message: Could not execute statement]
+[Last executed query: PREPARE mdb2_statement_mysql_397123b2074509170eb5931b628fd9b74c7a16fb7 FROM 'SELECT vars, ip, changed FROM session WHERE sess_id = ?']
+[Native code: 2006]
+[Native message: MySQL server has gone away]
+
+[03-Jan-2013 09:33:07 -0700]: DB Error: _doQuery: [Error message: Could not execute statement]
+[Last executed query: PREPARE mdb2_statement_mysql_397123b2074509170eb5931b628fd9b74c7a16fb7 FROM 'SELECT vars, ip, changed FROM session WHERE sess_id = ?']
+[Native code: 2006]
+[Native message: MySQL server has gone away]
+ in /home/content/63/10156063/html/correo/program/include/rcube_mdb2.php on line 296 (GET /?_task=mail&_action=list&_mbox=INBOX&_refresh=1&_remote=1&_unlock=loading1357230700189&_=1357230700193)
+[03-Jan-2013 16:33:07 UTC] MDB2 Error: unknown error (-1): _doQuery: [Error message: Could not execute statement]
+[Last executed query: PREPARE mdb2_statement_mysql_40400768b8dec32e79e60b36b912088bbb7a77d6d FROM 'INSERT INTO session (sess_id, vars, ip, created, changed) VALUES (?, ?, ?, \'2013-01-03 09:33:07\', \'2013-01-03 09:33:07\')']
+[Native code: 2006]
+[Native message: MySQL server has gone away]
+
+[03-Jan-2013 09:33:07 -0700]: DB Error: _doQuery: [Error message: Could not execute statement]
+[Last executed query: PREPARE mdb2_statement_mysql_40400768b8dec32e79e60b36b912088bbb7a77d6d FROM 'INSERT INTO session (sess_id, vars, ip, created, changed) VALUES (?, ?, ?, \'2013-01-03 09:33:07\', \'2013-01-03 09:33:07\')']
+[Native code: 2006]
+[Native message: MySQL server has gone away]
+ in /home/content/63/10156063/html/correo/program/include/rcube_mdb2.php on line 296 (GET /?_task=mail&_action=list&_mbox=INBOX&_refresh=1&_remote=1&_unlock=loading1357230700189&_=1357230700193)
+[03-Jan-2013 16:34:29 UTC] MDB2 Error: unknown error (-1): _doQuery: [Error message: Could not execute statement]
+[Last executed query: PREPARE mdb2_statement_mysql_38d47140a8758ef35e1910e4d7bef7162d2d70337 FROM 'SELECT vars, ip, changed FROM session WHERE sess_id = ?']
+[Native code: 2006]
+[Native message: MySQL server has gone away]
+
+[03-Jan-2013 09:34:29 -0700]: DB Error: _doQuery: [Error message: Could not execute statement]
+[Last executed query: PREPARE mdb2_statement_mysql_38d47140a8758ef35e1910e4d7bef7162d2d70337 FROM 'SELECT vars, ip, changed FROM session WHERE sess_id = ?']
+[Native code: 2006]
+[Native message: MySQL server has gone away]
+ in /home/content/63/10156063/html/correo/program/include/rcube_mdb2.php on line 296 (GET /?_task=mail&_action=list&_mbox=Borradores&_page=1&_refresh=1&_remote=1&_unlock=loading1357230798808&_=1357230798810)
+[03-Jan-2013 16:34:29 UTC] MDB2 Error: unknown error (-1): _doQuery: [Error message: Could not execute statement]
+[Last executed query: PREPARE mdb2_statement_mysql_40a08c8c0d259d6b1c5bf0ec3f688ab5dbb2f617d FROM 'INSERT INTO session (sess_id, vars, ip, created, changed) VALUES (?, ?, ?, \'2013-01-03 09:34:29\', \'2013-01-03 09:34:29\')']
+[Native code: 2006]
+[Native message: MySQL server has gone away]
+
+[03-Jan-2013 09:34:29 -0700]: DB Error: _doQuery: [Error message: Could not execute statement]
+[Last executed query: PREPARE mdb2_statement_mysql_40a08c8c0d259d6b1c5bf0ec3f688ab5dbb2f617d FROM 'INSERT INTO session (sess_id, vars, ip, created, changed) VALUES (?, ?, ?, \'2013-01-03 09:34:29\', \'2013-01-03 09:34:29\')']
+[Native code: 2006]
+[Native message: MySQL server has gone away]
+ in /home/content/63/10156063/html/correo/program/include/rcube_mdb2.php on line 296 (GET /?_task=mail&_action=list&_mbox=Borradores&_page=1&_refresh=1&_remote=1&_unlock=loading1357230798808&_=1357230798810)
+[03-Jan-2013 16:37:26 UTC] MDB2 Error: unknown error (-1): _doQuery: [Error message: Could not execute statement]
+[Last executed query: PREPARE mdb2_statement_mysql_3be2dd5095988628e8cacf6edbb756ed71f80fdd0 FROM 'SELECT vars, ip, changed FROM session WHERE sess_id = ?']
+[Native code: 2006]
+[Native message: MySQL server has gone away]
+
+[03-Jan-2013 09:37:26 -0700]: DB Error: _doQuery: [Error message: Could not execute statement]
+[Last executed query: PREPARE mdb2_statement_mysql_3be2dd5095988628e8cacf6edbb756ed71f80fdd0 FROM 'SELECT vars, ip, changed FROM session WHERE sess_id = ?']
+[Native code: 2006]
+[Native message: MySQL server has gone away]
+ in /home/content/63/10156063/html/correo/program/include/rcube_mdb2.php on line 296 (GET /?_task=mail&_action=list&_mbox=INBOX&_page=1&_refresh=1&_remote=1&_unlock=loading1357230982932&_=1357230982938)
+[03-Jan-2013 16:37:26 UTC] MDB2 Error: unknown error (-1): _doQuery: [Error message: Could not execute statement]
+[Last executed query: PREPARE mdb2_statement_mysql_4381b00bae4af2ca4eee49c372ef1b1797c123f3e FROM 'INSERT INTO session (sess_id, vars, ip, created, changed) VALUES (?, ?, ?, \'2013-01-03 09:37:26\', \'2013-01-03 09:37:26\')']
+[Native code: 2006]
+[Native message: MySQL server has gone away]
+
+[03-Jan-2013 09:37:26 -0700]: DB Error: _doQuery: [Error message: Could not execute statement]
+[Last executed query: PREPARE mdb2_statement_mysql_4381b00bae4af2ca4eee49c372ef1b1797c123f3e FROM 'INSERT INTO session (sess_id, vars, ip, created, changed) VALUES (?, ?, ?, \'2013-01-03 09:37:26\', \'2013-01-03 09:37:26\')']
+[Native code: 2006]
+[Native message: MySQL server has gone away]
+ in /home/content/63/10156063/html/correo/program/include/rcube_mdb2.php on line 296 (GET /?_task=mail&_action=list&_mbox=INBOX&_page=1&_refresh=1&_remote=1&_unlock=loading1357230982932&_=1357230982938)
+[03-Jan-2013 16:38:40 UTC] MDB2 Error: unknown error (-1): _doQuery: [Error message: Could not execute statement]
+[Last executed query: PREPARE mdb2_statement_mysql_351dbe362ed23c723adf3a5eb4fff991052e213e6 FROM 'SELECT vars, ip, changed FROM session WHERE sess_id = ?']
+[Native code: 2006]
+[Native message: MySQL server has gone away]
+
+[03-Jan-2013 09:38:40 -0700]: DB Error: _doQuery: [Error message: Could not execute statement]
+[Last executed query: PREPARE mdb2_statement_mysql_351dbe362ed23c723adf3a5eb4fff991052e213e6 FROM 'SELECT vars, ip, changed FROM session WHERE sess_id = ?']
+[Native code: 2006]
+[Native message: MySQL server has gone away]
+ in /home/content/63/10156063/html/correo/program/include/rcube_mdb2.php on line 296 (GET /?_task=mail&_action=check-recent&_mbox=INBOX&_list=1&_remote=1&_unlock=0&_=1357231055976)
+[03-Jan-2013 16:38:40 UTC] MDB2 Error: unknown error (-1): _doQuery: [Error message: Could not execute statement]
+[Last executed query: PREPARE mdb2_statement_mysql_412a59fcb2e2803873fbef02e607918889285a992 FROM 'INSERT INTO session (sess_id, vars, ip, created, changed) VALUES (?, ?, ?, \'2013-01-03 09:38:40\', \'2013-01-03 09:38:40\')']
+[Native code: 2006]
+[Native message: MySQL server has gone away]
+
+[03-Jan-2013 09:38:40 -0700]: DB Error: _doQuery: [Error message: Could not execute statement]
+[Last executed query: PREPARE mdb2_statement_mysql_412a59fcb2e2803873fbef02e607918889285a992 FROM 'INSERT INTO session (sess_id, vars, ip, created, changed) VALUES (?, ?, ?, \'2013-01-03 09:38:40\', \'2013-01-03 09:38:40\')']
+[Native code: 2006]
+[Native message: MySQL server has gone away]
+ in /home/content/63/10156063/html/correo/program/include/rcube_mdb2.php on line 296 (GET /?_task=mail&_action=check-recent&_mbox=INBOX&_list=1&_remote=1&_unlock=0&_=1357231055976)
+[03-Jan-2013 16:43:57 UTC] MDB2 Error: unknown error (-1): _doQuery: [Error message: Could not execute statement]
+[Last executed query: PREPARE mdb2_statement_mysql_3ff0e899e5f5bfe730dbda1ddf6707644eaf22989 FROM 'SELECT vars, ip, changed FROM session WHERE sess_id = ?']
+[Native code: 2006]
+[Native message: MySQL server has gone away]
+
+[03-Jan-2013 09:43:57 -0700]: DB Error: _doQuery: [Error message: Could not execute statement]
+[Last executed query: PREPARE mdb2_statement_mysql_3ff0e899e5f5bfe730dbda1ddf6707644eaf22989 FROM 'SELECT vars, ip, changed FROM session WHERE sess_id = ?']
+[Native code: 2006]
+[Native message: MySQL server has gone away]
+ in /home/content/63/10156063/html/correo/program/include/rcube_mdb2.php on line 296 (GET /?_task=mail&_action=preview&_uid=131&_mbox=INBOX&_framed=1)
+[03-Jan-2013 16:43:57 UTC] MDB2 Error: unknown error (-1): _doQuery: [Error message: Could not execute statement]
+[Last executed query: PREPARE mdb2_statement_mysql_4eeea2f5688c843ce68ac2030787e7ddf86aaabd9 FROM 'INSERT INTO session (sess_id, vars, ip, created, changed) VALUES (?, ?, ?, \'2013-01-03 09:43:57\', \'2013-01-03 09:43:57\')']
+[Native code: 2006]
+[Native message: MySQL server has gone away]
+
+[03-Jan-2013 09:43:57 -0700]: DB Error: _doQuery: [Error message: Could not execute statement]
+[Last executed query: PREPARE mdb2_statement_mysql_4eeea2f5688c843ce68ac2030787e7ddf86aaabd9 FROM 'INSERT INTO session (sess_id, vars, ip, created, changed) VALUES (?, ?, ?, \'2013-01-03 09:43:57\', \'2013-01-03 09:43:57\')']
+[Native code: 2006]
+[Native message: MySQL server has gone away]
+ in /home/content/63/10156063/html/correo/program/include/rcube_mdb2.php on line 296 (GET /?_task=mail&_action=preview&_uid=131&_mbox=INBOX&_framed=1)
+[03-Jan-2013 16:44:18 UTC] MDB2 Error: unknown error (-1): _doQuery: [Error message: Could not execute statement]
+[Last executed query: PREPARE mdb2_statement_mysql_374e2192a29e3b294844f85c7a20170bca6e3d8ce FROM 'SELECT vars, ip, changed FROM session WHERE sess_id = ?']
+[Native code: 2006]
+[Native message: MySQL server has gone away]
+
+[03-Jan-2013 09:44:18 -0700]: DB Error: _doQuery: [Error message: Could not execute statement]
+[Last executed query: PREPARE mdb2_statement_mysql_374e2192a29e3b294844f85c7a20170bca6e3d8ce FROM 'SELECT vars, ip, changed FROM session WHERE sess_id = ?']
+[Native code: 2006]
+[Native message: MySQL server has gone away]
+ in /home/content/63/10156063/html/correo/program/include/rcube_mdb2.php on line 296 (GET /?_task=mail&_action=getunread&&_remote=1&_unlock=0&_=1357231356809)
+[03-Jan-2013 16:44:18 UTC] MDB2 Error: unknown error (-1): _doQuery: [Error message: Could not execute statement]
+[Last executed query: PREPARE mdb2_statement_mysql_479cbddef94512440080b41dc6a2287c63a2a4f57 FROM 'INSERT INTO session (sess_id, vars, ip, created, changed) VALUES (?, ?, ?, \'2013-01-03 09:44:18\', \'2013-01-03 09:44:18\')']
+[Native code: 2006]
+[Native message: MySQL server has gone away]
+
+[03-Jan-2013 09:44:18 -0700]: DB Error: _doQuery: [Error message: Could not execute statement]
+[Last executed query: PREPARE mdb2_statement_mysql_479cbddef94512440080b41dc6a2287c63a2a4f57 FROM 'INSERT INTO session (sess_id, vars, ip, created, changed) VALUES (?, ?, ?, \'2013-01-03 09:44:18\', \'2013-01-03 09:44:18\')']
+[Native code: 2006]
+[Native message: MySQL server has gone away]
+ in /home/content/63/10156063/html/correo/program/include/rcube_mdb2.php on line 296 (GET /?_task=mail&_action=getunread&&_remote=1&_unlock=0&_=1357231356809)
+[03-Jan-2013 18:09:43 UTC] MDB2 Error: null value violates not-null constraint (-29): _doQuery: [Error message: Could not execute statement]
+[Last executed query: EXECUTE mdb2_statement_mysql_899cc6b59781e59dd3a7789be326439c014276e73 USING @0, @1]
+[Native code: 1048]
+[Native message: Column 'contactgroup_id' cannot be null]
+
+[03-Jan-2013 11:09:43 -0700]: DB Error: MDB2 Error: null value violates not-null constraint Query: _doQuery: [Error message: Could not execute statement] [Last executed query: EXECUTE mdb2_statement_mysql_899cc6b59781e59dd3a7789be326439c014276e73 USING @0, @1] [Native code: 1048] [Native message: Column 'contactgroup_id' cannot be null]  in /home/content/63/10156063/html/correo/program/include/rcube_mdb2.php on line 727 (POST /?_orig_source=0?_task=addressbook&_action=save)
+[03-Jan-2013 18:11:12 UTC] MDB2 Error: null value violates not-null constraint (-29): _doQuery: [Error message: Could not execute statement]
+[Last executed query: EXECUTE mdb2_statement_mysql_8025b22a53245f3784d16a711f10b84d6bf4215a2 USING @0, @1]
+[Native code: 1048]
+[Native message: Column 'contactgroup_id' cannot be null]
+
+[03-Jan-2013 11:11:12 -0700]: DB Error: MDB2 Error: null value violates not-null constraint Query: _doQuery: [Error message: Could not execute statement] [Last executed query: EXECUTE mdb2_statement_mysql_8025b22a53245f3784d16a711f10b84d6bf4215a2 USING @0, @1] [Native code: 1048] [Native message: Column 'contactgroup_id' cannot be null]  in /home/content/63/10156063/html/correo/program/include/rcube_mdb2.php on line 727 (POST /?_orig_source=0?_task=addressbook&_action=save)
+[03-Jan-2013 18:12:32 UTC] MDB2 Error: null value violates not-null constraint (-29): _doQuery: [Error message: Could not execute statement]
+[Last executed query: EXECUTE mdb2_statement_mysql_87f43dcdc72e1aa3124361333ac316d7f71db2efa USING @0, @1]
+[Native code: 1048]
+[Native message: Column 'contactgroup_id' cannot be null]
+
+[03-Jan-2013 11:12:32 -0700]: DB Error: MDB2 Error: null value violates not-null constraint Query: _doQuery: [Error message: Could not execute statement] [Last executed query: EXECUTE mdb2_statement_mysql_87f43dcdc72e1aa3124361333ac316d7f71db2efa USING @0, @1] [Native code: 1048] [Native message: Column 'contactgroup_id' cannot be null]  in /home/content/63/10156063/html/correo/program/include/rcube_mdb2.php on line 727 (POST /?_orig_source=0?_task=addressbook&_action=save)
+[03-Jan-2013 12:32:35 -0700]: IMAP Error: Login failed for ibracamontes@cbguadalajaar.com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[03-Jan-2013 15:57:35 -0700]: IMAP Error: Login failed for tochoa@cbguadalajara.com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[03-Jan-2013 17:31:10 -0700]: IMAP Error: Login failed for malvarez@cbguadalajara.com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[04-Jan-2013 00:37:06 UTC] PHP Warning:  pspell_new() [<a href='function.pspell-new'>function.pspell-new</a>]: PSPELL couldn't open the dictionary. reason: No word lists can be found for the language &quot;es&quot;. in /home/content/63/10156063/html/correo/program/include/rcube_spellchecker.php on line 330
+[03-Jan-2013 17:49:24 -0700]: IMAP Error: Login failed for gbremer@cbguadalajara.com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[04-Jan-2013 10:11:25 -0700]: IMAP Error: Login failed for jsaldana@cbguadalajara.com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[04-Jan-2013 10:30:57 -0700]: IMAP Error: Login failed for jgalvan@cbguadalajara.co from 187.139.75.63. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[04-Jan-2013 12:01:00 -0700]: IMAP Error: Login failed for acarmona@cbguadalajara.com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[05-Jan-2013 00:21:38 UTC] MDB2 Error: unknown error (-1): _doQuery: [Error message: Could not execute statement]
+[Last executed query: PREPARE mdb2_statement_mysql_37e2b99325df81aa7650fcbc6bd6c48a5b78aae32 FROM 'SELECT vars, ip, changed FROM session WHERE sess_id = ?']
+[Native code: 2006]
+[Native message: MySQL server has gone away]
+
+[04-Jan-2013 17:21:38 -0700]: DB Error: _doQuery: [Error message: Could not execute statement]
+[Last executed query: PREPARE mdb2_statement_mysql_37e2b99325df81aa7650fcbc6bd6c48a5b78aae32 FROM 'SELECT vars, ip, changed FROM session WHERE sess_id = ?']
+[Native code: 2006]
+[Native message: MySQL server has gone away]
+ in /home/content/63/10156063/html/correo/program/include/rcube_mdb2.php on line 296 (GET /?_task=mail&_action=check-recent&_mbox=INBOX&_list=1&_remote=1&_unlock=0&_=1357345238630)
+[05-Jan-2013 00:21:38 UTC] MDB2 Error: unknown error (-1): _doQuery: [Error message: Could not execute statement]
+[Last executed query: PREPARE mdb2_statement_mysql_40f2072f3337b023f3d879df6e6e829286a848d59 FROM 'INSERT INTO session (sess_id, vars, ip, created, changed) VALUES (?, ?, ?, \'2013-01-04 17:21:38\', \'2013-01-04 17:21:38\')']
+[Native code: 2006]
+[Native message: MySQL server has gone away]
+
+[04-Jan-2013 17:21:38 -0700]: DB Error: _doQuery: [Error message: Could not execute statement]
+[Last executed query: PREPARE mdb2_statement_mysql_40f2072f3337b023f3d879df6e6e829286a848d59 FROM 'INSERT INTO session (sess_id, vars, ip, created, changed) VALUES (?, ?, ?, \'2013-01-04 17:21:38\', \'2013-01-04 17:21:38\')']
+[Native code: 2006]
+[Native message: MySQL server has gone away]
+ in /home/content/63/10156063/html/correo/program/include/rcube_mdb2.php on line 296 (GET /?_task=mail&_action=check-recent&_mbox=INBOX&_list=1&_remote=1&_unlock=0&_=1357345238630)
+[07-Jan-2013 08:50:54 -0700]: IMAP Error: Login failed for jgalvan@hotmail.com from 187.139.75.63. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[07-Jan-2013 08:52:14 -0700]: IMAP Error: Login failed for jgalvan@hotmail.com from 187.139.75.63. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[07-Jan-2013 08:56:38 -0700]: IMAP Error: Login failed for ana_jimenez@cbguadalajara.com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[07-Jan-2013 08:57:06 -0700]: IMAP Error: Login failed for CRISTINA_JIMENEZ@cbguadalajara.com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[07-Jan-2013 08:57:06 -0700]: IMAP Error: Login failed for cristina_jimenez@cbguadalajara.com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[07-Jan-2013 08:57:24 -0700]: IMAP Error: Login failed for ANA_JIMENEZ@cbguadalajara.com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[07-Jan-2013 08:57:24 -0700]: IMAP Error: Login failed for ana_jimenez@cbguadalajara.com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[07-Jan-2013 08:58:10 -0700]: IMAP Error: Login failed for ANA_JIMENEZ@cbguadalajara.com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[07-Jan-2013 08:58:10 -0700]: IMAP Error: Login failed for ana_jimenez@cbguadalajara.com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[07-Jan-2013 08:59:12 -0700]: IMAP Error: Login failed for ANA_JIMENEZ@cbguadalajara.com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[07-Jan-2013 08:59:12 -0700]: IMAP Error: Login failed for ana_jimenez@cbguadalajara.com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[07-Jan-2013 08:59:29 -0700]: IMAP Error: Login failed for ana_jimenez@cbguadalajara.com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[07-Jan-2013 08:59:56 -0700]: IMAP Error: Login failed for ana_jimenez@cbguadalajara.com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[07-Jan-2013 13:22:07 -0700]: IMAP Error: Login failed for cjimenez@cbguadalajara.com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[07-Jan-2013 13:22:35 -0700]: IMAP Error: Login failed for cjimenez@cbguadalajara.com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[07-Jan-2013 13:22:44 -0700]: IMAP Error: Login failed for cjimenez@cbguadalajara.com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[07-Jan-2013 13:26:08 -0700]: IMAP Error: Login failed for cjimenez@cbguadalajara.com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[07-Jan-2013 13:26:25 -0700]: IMAP Error: Login failed for cjimenez@cbguadalajara.com.mx from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[07-Jan-2013 21:23:51 UTC] MDB2 Error: constraint violation (-3): _doQuery: [Error message: Could not execute statement]
+[Last executed query: EXECUTE mdb2_statement_mysql_27d5b0f158500119d3b41eeb06b61ce573b89e184 USING @0, @1, @2]
+[Native code: 1062]
+[Native message: Duplicate entry 's7kfbad1sm9uqeihp8uqm40aq3' for key 1]
+
+[07-Jan-2013 14:23:51 -0700]: DB Error: MDB2 Error: constraint violation Query: _doQuery: [Error message: Could not execute statement] [Last executed query: EXECUTE mdb2_statement_mysql_27d5b0f158500119d3b41eeb06b61ce573b89e184 USING @0, @1, @2] [Native code: 1062] [Native message: Duplicate entry 's7kfbad1sm9uqeihp8uqm40aq3' for key 1]  in /home/content/63/10156063/html/correo/program/include/rcube_mdb2.php on line 727 (GET /?_task=mail&_action=check-recent&_mbox=INBOX&_remote=1&_unlock=0&_=1357593839521)
+[07-Jan-2013 14:30:42 -0700]: IMAP Error: Login failed for jperez@cbguadalajara.com from 187.245.8.106. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[07-Jan-2013 14:30:51 -0700]: IMAP Error: Login failed for jperez@cbguadalajara.com from 187.245.8.106. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[08-Jan-2013 10:21:50 -0700]: IMAP Error: Login failed for ijimenez@cbguadalajara.com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[08-Jan-2013 10:22:11 -0700]: IMAP Error: Login failed for ijimenez@cbguadalajara.com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[08-Jan-2013 10:22:42 -0700]: IMAP Error: Login failed for ijimenez@cbguadalajara.com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[08-Jan-2013 11:04:07 -0700]: IMAP Error: Login failed for rlopez@cbguadalajara .com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[08-Jan-2013 11:04:16 -0700]: IMAP Error: Login failed for rlopez@cbguadalajara .com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[08-Jan-2013 11:05:35 -0700]: IMAP Error: Login failed for rlopez@cbguadalajara .com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[08-Jan-2013 11:05:50 -0700]: IMAP Error: Login failed for rlopez@cbguadalajara .com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[08-Jan-2013 11:06:18 -0700]: IMAP Error: Login failed for rlopez@cbguadalajara .com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[08-Jan-2013 11:07:05 -0700]: IMAP Error: Login failed for rlopez@cbguadalajara .com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[08-Jan-2013 11:07:15 -0700]: IMAP Error: Login failed for rlopez@cbguadalajara .com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[08-Jan-2013 11:24:24 -0700]: IMAP Error: Login failed for jsaldanacbguadalajara.com@cbguadalajara.com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[08-Jan-2013 11:25:51 -0700]: IMAP Error: Login failed for jsaldanacbguadalajara.com@cbguadalajara.com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[08-Jan-2013 11:26:41 -0700]: IMAP Error: Login failed for jsaldana.cbguadalajara.com@cbguadalajara.com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[08-Jan-2013 11:26:56 -0700]: IMAP Error: Login failed for jsaldana.cbguadalajara.com@cbguadalajara.com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[08-Jan-2013 11:29:11 -0700]: IMAP Error: Login failed for jsaldana.cbguadalajara.com@cbguadalajara.com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[08-Jan-2013 12:30:38 -0700]: IMAP Error: Login failed for lcaballero@coldwellbankerguadalajara.com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[08-Jan-2013 12:30:48 -0700]: IMAP Error: Login failed for lcaballero@coldwellbankerguadalajara.com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[08-Jan-2013 12:31:14 -0700]: IMAP Error: Login failed for leticia_caballero@coldwellbankerguadalajara.com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[08-Jan-2013 13:00:27 -0700]: IMAP Error: Login failed for shernandez@cbguadalajara.com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[08-Jan-2013 13:15:10 -0700]: IMAP Error: Login failed for america_felix@cbguadalajara.com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[08-Jan-2013 13:15:24 -0700]: IMAP Error: Login failed for america_felix@cbguadalajara.com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[08-Jan-2013 13:15:40 -0700]: IMAP Error: Login failed for america_felix@cbguadalajara.com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[08-Jan-2013 20:26:01 UTC] PHP Warning:  mail() [<a href='function.mail'>function.mail</a>]: Bad parameters to mail() function, mail not sent. in /home/content/63/10156063/html/correo/program/include/main.inc on line 1529
+[08-Jan-2013 20:26:44 UTC] PHP Warning:  mail() [<a href='function.mail'>function.mail</a>]: Bad parameters to mail() function, mail not sent. in /home/content/63/10156063/html/correo/program/include/main.inc on line 1529
+[08-Jan-2013 20:27:11 UTC] PHP Warning:  mail() [<a href='function.mail'>function.mail</a>]: Bad parameters to mail() function, mail not sent. in /home/content/63/10156063/html/correo/program/include/main.inc on line 1529
+[08-Jan-2013 20:27:42 UTC] PHP Warning:  mail() [<a href='function.mail'>function.mail</a>]: Bad parameters to mail() function, mail not sent. in /home/content/63/10156063/html/correo/program/include/main.inc on line 1529
+[08-Jan-2013 20:28:15 UTC] PHP Warning:  mail() [<a href='function.mail'>function.mail</a>]: Bad parameters to mail() function, mail not sent. in /home/content/63/10156063/html/correo/program/include/main.inc on line 1529
+[08-Jan-2013 20:28:48 UTC] PHP Warning:  mail() [<a href='function.mail'>function.mail</a>]: Bad parameters to mail() function, mail not sent. in /home/content/63/10156063/html/correo/program/include/main.inc on line 1529
+[08-Jan-2013 20:29:19 UTC] PHP Warning:  mail() [<a href='function.mail'>function.mail</a>]: Bad parameters to mail() function, mail not sent. in /home/content/63/10156063/html/correo/program/include/main.inc on line 1529
+[08-Jan-2013 20:30:37 UTC] PHP Warning:  mail() [<a href='function.mail'>function.mail</a>]: Bad parameters to mail() function, mail not sent. in /home/content/63/10156063/html/correo/program/include/main.inc on line 1529
+[08-Jan-2013 14:18:09 -0700]: IMAP Error: Login failed for ymancilla@cbguadalajara.com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[08-Jan-2013 14:59:59 -0700]: IMAP Error: Login failed for gcorrea@cbguadalajara.com from 187.133.168.51. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[08-Jan-2013 16:35:36 -0700]: IMAP Error: Login failed for afelix@cbguadalara.com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[08-Jan-2013 18:47:28 -0700]: IMAP Error: Login failed for jperez@cbguadalajara.com from 187.245.8.106. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[08-Jan-2013 20:13:43 -0700]: IMAP Error: Login failed for jose.galvanramirez@cbguadalajara.com from 187.139.75.63. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[08-Jan-2013 20:14:08 -0700]: IMAP Error: Login failed for jose.galvanramirez@cbguadalajara.com from 187.139.75.63. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[09-Jan-2013 09:56:03 -0700]: IMAP Error: Login failed for leticia_caballero@cbguadalajara.com from 189.169.72.112. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[09-Jan-2013 12:13:47 -0700]: IMAP Error: Login failed for rlopez@cbguadajalara.com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[09-Jan-2013 12:13:58 -0700]: IMAP Error: Login failed for rlopez@cbguadajalara.com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[09-Jan-2013 12:14:12 -0700]: IMAP Error: Login failed for rlopez@cbguadajalara.com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[09-Jan-2013 12:46:47 -0700]: IMAP Error: Login failed for leticia_caballero@cbguadalajara.com from 189.169.69.242. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[09-Jan-2013 12:47:24 -0700]: IMAP Error: Login failed for lcaballero@cbguadalajara.com.mx from 189.169.69.242. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[09-Jan-2013 15:10:48 -0700]: IMAP Error: Login failed for acarmona@cbguadalajara.com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[09-Jan-2013 17:08:03 -0700]: IMAP Error: Login failed for leticia_caballero@cbguadalajara.com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[09-Jan-2013 17:08:25 -0700]: IMAP Error: Login failed for lcaballero@coldwellbanker.com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[09-Jan-2013 17:08:36 -0700]: IMAP Error: Login failed for lcaballero@coldwellbanker.com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[09-Jan-2013 17:08:49 -0700]: IMAP Error: Login failed for lcaballero@coldwellbanker.com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[10-Jan-2013 10:13:00 -0700]: IMAP Error: Login failed for lrrosas@cbguadalajara.com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[10-Jan-2013 10:13:15 -0700]: IMAP Error: Login failed for lrrosas@cbguadalajara.com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[10-Jan-2013 10:13:23 -0700]: IMAP Error: Login failed for lrrosas@cbguadalajara.com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[10-Jan-2013 10:51:13 -0700]: IMAP Error: Login failed for gcorrea@cbguadalajara from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[10-Jan-2013 10:51:27 -0700]: IMAP Error: Login failed for gcorrea@cbguadalajara from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[10-Jan-2013 10:51:47 -0700]: IMAP Error: Login failed for gcorrea@cbguadalajara from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[10-Jan-2013 10:52:11 -0700]: IMAP Error: Login failed for gcorrea@cbguadalajara from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[10-Jan-2013 10:52:27 -0700]: IMAP Error: Login failed for gcorrea@cbguadalajara from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[10-Jan-2013 10:52:54 -0700]: IMAP Error: Login failed for guillermina_correa@cbguadalajara.com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[10-Jan-2013 10:53:00 -0700]: IMAP Error: Login failed for afelixcbguadalajara.com@cbguadalajara.com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[10-Jan-2013 10:53:20 -0700]: IMAP Error: Login failed for gcorrea@cbguadalajara from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[10-Jan-2013 10:54:09 -0700]: IMAP Error: Login failed for afelix@cbguadalajara.com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[10-Jan-2013 18:14:31 UTC] PHP Warning:  mail() [<a href='function.mail'>function.mail</a>]: Bad parameters to mail() function, mail not sent. in /home/content/63/10156063/html/correo/program/include/main.inc on line 1529
+[10-Jan-2013 18:16:46 UTC] PHP Warning:  mail() [<a href='function.mail'>function.mail</a>]: Bad parameters to mail() function, mail not sent. in /home/content/63/10156063/html/correo/program/include/main.inc on line 1529
+[10-Jan-2013 12:21:01 -0700]: IMAP Error: Login failed for gcorreo@cbguadalajara.com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[10-Jan-2013 12:21:11 -0700]: IMAP Error: Login failed for gcorreo@cbguadalajara.com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[10-Jan-2013 13:52:23 -0700]: IMAP Error: Login failed for sramirez@cbguadalajara.com from 189.169.61.76. Could not connect to imap.secureserver.net:143: php_network_getaddresses: getaddrinfo failed: Nombre o servicio desconocido in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (GET /?_task=mail&_action=check-recent&_mbox=INBOX&_remote=1&_unlock=0&_=1357851144378)
+[10-Jan-2013 13:52:26 -0700]: IMAP Error: Login failed for rfranco@cbguadalajara.com from 189.169.61.76. Could not connect to imap.secureserver.net:143: php_network_getaddresses: getaddrinfo failed: Nombre o servicio desconocido in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (GET /?_task=mail&_action=check-recent&_mbox=INBOX&_list=1&_remote=1&_unlock=0&_=1357851146455)
+[11-Jan-2013 11:02:10 -0700]: IMAP Error: Login failed for rlopez@cbguadalajara.com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[11-Jan-2013 12:47:29 -0700]: IMAP Error: Login failed for rlopez@cbguadalajara.com from 189.169.61.76. Could not connect to imap.secureserver.net:143: Expiró el tiempo de conexión in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_unlock=loading1357933587057&_lang=es?_task=mail&_action=send)
+[11-Jan-2013 12:47:29 -0700]: IMAP Error: Could not save message in Enviados in /home/content/63/10156063/html/correo/program/steps/mail/sendmail.inc on line 704 (POST /?_unlock=loading1357933587057&_lang=es?_task=mail&_action=send)
+[11-Jan-2013 19:47:29 UTC] MDB2 Error: unknown error (-1): _doQuery: [Error message: Could not execute statement]
+[Last executed query: PREPARE mdb2_statement_mysql_4cb7c3b4c1e38dcd14532c6ceac41564dadf3fac5 FROM 'SELECT vars, ip, changed FROM session WHERE sess_id = ?']
+[Native code: 2006]
+[Native message: MySQL server has gone away]
+
+[11-Jan-2013 12:47:29 -0700]: DB Error: _doQuery: [Error message: Could not execute statement]
+[Last executed query: PREPARE mdb2_statement_mysql_4cb7c3b4c1e38dcd14532c6ceac41564dadf3fac5 FROM 'SELECT vars, ip, changed FROM session WHERE sess_id = ?']
+[Native code: 2006]
+[Native message: MySQL server has gone away]
+ in /home/content/63/10156063/html/correo/program/include/rcube_mdb2.php on line 296 (POST /?_unlock=loading1357933587057&_lang=es?_task=mail&_action=send)
+[11-Jan-2013 19:47:29 UTC] MDB2 Error: unknown error (-1): _doQuery: [Error message: Could not execute statement]
+[Last executed query: PREPARE mdb2_statement_mysql_50fee9b73efab076481ffc2ad2b76a8aefcb2d965 FROM 'INSERT INTO session (sess_id, vars, ip, created, changed) VALUES (?, ?, ?, \'2013-01-11 12:47:29\', \'2013-01-11 12:47:29\')']
+[Native code: 2006]
+[Native message: MySQL server has gone away]
+
+[11-Jan-2013 12:47:29 -0700]: DB Error: _doQuery: [Error message: Could not execute statement]
+[Last executed query: PREPARE mdb2_statement_mysql_50fee9b73efab076481ffc2ad2b76a8aefcb2d965 FROM 'INSERT INTO session (sess_id, vars, ip, created, changed) VALUES (?, ?, ?, \'2013-01-11 12:47:29\', \'2013-01-11 12:47:29\')']
+[Native code: 2006]
+[Native message: MySQL server has gone away]
+ in /home/content/63/10156063/html/correo/program/include/rcube_mdb2.php on line 296 (POST /?_unlock=loading1357933587057&_lang=es?_task=mail&_action=send)
+[11-Jan-2013 12:48:35 -0700]: IMAP Error: Login failed for rlopez@cbguadalajara.com from 189.169.61.76. Could not connect to imap.secureserver.net:143: Expiró el tiempo de conexión in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (GET /?_task=mail&_mbox=INBOX&_refresh=1)
+[11-Jan-2013 12:48:47 -0700]: IMAP Error: Login failed for jaguilar@cbguadalajara.com from 189.169.61.76. Could not connect to imap.secureserver.net:143: Expiró el tiempo de conexión in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (GET /?_task=mail&_action=check-recent&_mbox=INBOX&_list=1&_remote=1&_unlock=0&_=1357933665318)
+[11-Jan-2013 19:48:47 UTC] MDB2 Error: unknown error (-1): _doQuery: [Error message: Could not execute statement]
+[Last executed query: PREPARE mdb2_statement_mysql_355e2113a7d10159fbd5067ae967dd030b7329405 FROM 'SELECT vars, ip, changed FROM session WHERE sess_id = ?']
+[Native code: 2006]
+[Native message: MySQL server has gone away]
+
+[11-Jan-2013 12:48:47 -0700]: DB Error: _doQuery: [Error message: Could not execute statement]
+[Last executed query: PREPARE mdb2_statement_mysql_355e2113a7d10159fbd5067ae967dd030b7329405 FROM 'SELECT vars, ip, changed FROM session WHERE sess_id = ?']
+[Native code: 2006]
+[Native message: MySQL server has gone away]
+ in /home/content/63/10156063/html/correo/program/include/rcube_mdb2.php on line 296 (GET /?_task=mail&_action=check-recent&_mbox=INBOX&_list=1&_remote=1&_unlock=0&_=1357933665318)
+[11-Jan-2013 19:48:47 UTC] MDB2 Error: unknown error (-1): _doQuery: [Error message: Could not execute statement]
+[Last executed query: PREPARE mdb2_statement_mysql_41e3b6e6dc785ef862f134d921d2110a40283a5a4 FROM 'INSERT INTO session (sess_id, vars, ip, created, changed) VALUES (?, ?, ?, \'2013-01-11 12:48:47\', \'2013-01-11 12:48:47\')']
+[Native code: 2006]
+[Native message: MySQL server has gone away]
+
+[11-Jan-2013 12:48:47 -0700]: DB Error: _doQuery: [Error message: Could not execute statement]
+[Last executed query: PREPARE mdb2_statement_mysql_41e3b6e6dc785ef862f134d921d2110a40283a5a4 FROM 'INSERT INTO session (sess_id, vars, ip, created, changed) VALUES (?, ?, ?, \'2013-01-11 12:48:47\', \'2013-01-11 12:48:47\')']
+[Native code: 2006]
+[Native message: MySQL server has gone away]
+ in /home/content/63/10156063/html/correo/program/include/rcube_mdb2.php on line 296 (GET /?_task=mail&_action=check-recent&_mbox=INBOX&_list=1&_remote=1&_unlock=0&_=1357933665318)
+[11-Jan-2013 12:49:41 -0700]: IMAP Error: Login failed for rlopez@cbguadalajara.com from 189.169.61.76. Could not connect to imap.secureserver.net:143: Expiró el tiempo de conexión in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (GET /?_task=mail&_action=list&_mbox=INBOX&_refresh=1&_remote=1&_unlock=loading1357933721750&_=1357933721757)
+[11-Jan-2013 19:49:41 UTC] MDB2 Error: unknown error (-1): _doQuery: [Error message: Could not execute statement]
+[Last executed query: PREPARE mdb2_statement_mysql_31e2059dbc1e1afde3f97c8145718fabf59320262 FROM 'SELECT vars, ip, changed FROM session WHERE sess_id = ?']
+[Native code: 2006]
+[Native message: MySQL server has gone away]
+
+[11-Jan-2013 12:49:41 -0700]: DB Error: _doQuery: [Error message: Could not execute statement]
+[Last executed query: PREPARE mdb2_statement_mysql_31e2059dbc1e1afde3f97c8145718fabf59320262 FROM 'SELECT vars, ip, changed FROM session WHERE sess_id = ?']
+[Native code: 2006]
+[Native message: MySQL server has gone away]
+ in /home/content/63/10156063/html/correo/program/include/rcube_mdb2.php on line 296 (GET /?_task=mail&_action=list&_mbox=INBOX&_refresh=1&_remote=1&_unlock=loading1357933721750&_=1357933721757)
+[11-Jan-2013 19:49:41 UTC] MDB2 Error: unknown error (-1): _doQuery: [Error message: Could not execute statement]
+[Last executed query: PREPARE mdb2_statement_mysql_4f8193607b85c6f7cf35db061c400a4450305e265 FROM 'INSERT INTO session (sess_id, vars, ip, created, changed) VALUES (?, ?, ?, \'2013-01-11 12:49:41\', \'2013-01-11 12:49:41\')']
+[Native code: 2006]
+[Native message: MySQL server has gone away]
+
+[11-Jan-2013 12:49:41 -0700]: DB Error: _doQuery: [Error message: Could not execute statement]
+[Last executed query: PREPARE mdb2_statement_mysql_4f8193607b85c6f7cf35db061c400a4450305e265 FROM 'INSERT INTO session (sess_id, vars, ip, created, changed) VALUES (?, ?, ?, \'2013-01-11 12:49:41\', \'2013-01-11 12:49:41\')']
+[Native code: 2006]
+[Native message: MySQL server has gone away]
+ in /home/content/63/10156063/html/correo/program/include/rcube_mdb2.php on line 296 (GET /?_task=mail&_action=list&_mbox=INBOX&_refresh=1&_remote=1&_unlock=loading1357933721750&_=1357933721757)
+[11-Jan-2013 12:49:47 -0700]: IMAP Error: Login failed for jaguilar@cbguadalajara.com from 189.169.61.76. Could not connect to imap.secureserver.net:143: Conexión rehusada in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (GET /?_task=mail&_action=check-recent&_mbox=INBOX&_list=1&_remote=1&_unlock=0&_=1357933785322)
+[11-Jan-2013 12:49:47 -0700]: IMAP Error: Login failed for jaguilar@cbguadalajara.com from 189.169.61.76. Could not connect to imap.secureserver.net:143: Expiró el tiempo de conexión in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (GET /?_task=mail&_action=check-recent&_mbox=INBOX&_list=1&_remote=1&_unlock=0&_=1357933725312)
+[11-Jan-2013 13:06:44 -0700]: IMAP Error: Login failed for gcorrea@cbguaalajara.com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[11-Jan-2013 13:06:58 -0700]: IMAP Error: Login failed for gcorrea@cbguaalajara.com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[11-Jan-2013 13:07:21 -0700]: IMAP Error: Login failed for gcorrea@cbguaalajara.com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[11-Jan-2013 13:07:47 -0700]: IMAP Error: Login failed for gcorrea@cbguadalajara from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[11-Jan-2013 16:14:34 -0700]: IMAP Error: Login failed for rlopez@cbguadalajara.com from 187.247.144.168. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[11-Jan-2013 16:14:53 -0700]: IMAP Error: Login failed for rlopez@cbguadalajara.com from 187.247.144.168. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[11-Jan-2013 16:16:21 -0700]: IMAP Error: Login failed for rlopez@cbguadalajara.com from 187.247.144.168. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[11-Jan-2013 16:17:03 -0700]: IMAP Error: Login failed for mgastelum@cbguadalajara.com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[12-Jan-2013 10:13:39 -0700]: IMAP Error: Login failed for rfranco@hotmail.com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[12-Jan-2013 10:14:04 -0700]: IMAP Error: Login failed for rfranco@cbguadalajara.com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[12-Jan-2013 12:40:45 -0700]: IMAP Error: Login failed for lmondragon@cbguadalajara.com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[13-Jan-2013 10:51:03 -0700]: IMAP Error: Login failed for jgalvan@cbgudalajara.com from 187.139.75.63. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[13-Jan-2013 10:51:40 -0700]: IMAP Error: Login failed for jgalvan@cbgudalajara.com from 187.139.75.63. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[14-Jan-2013 11:27:34 -0700]: IMAP Error: Login failed for ltoscano@cbguadalajara.com from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[14-Jan-2013 20:38:23 UTC] PHP Warning:  pspell_new() [<a href='function.pspell-new'>function.pspell-new</a>]: PSPELL couldn't open the dictionary. reason: No word lists can be found for the language &quot;es&quot;. in /home/content/63/10156063/html/correo/program/include/rcube_spellchecker.php on line 330
+[14-Jan-2013 20:43:58 UTC] PHP Warning:  pspell_new() [<a href='function.pspell-new'>function.pspell-new</a>]: PSPELL couldn't open the dictionary. reason: No word lists can be found for the language &quot;es&quot;. in /home/content/63/10156063/html/correo/program/include/rcube_spellchecker.php on line 330
+[14-Jan-2013 21:34:00 UTC] PHP Warning:  mail() [<a href='function.mail'>function.mail</a>]: Bad parameters to mail() function, mail not sent. in /home/content/63/10156063/html/correo/program/include/main.inc on line 1529
+[14-Jan-2013 21:42:41 UTC] MDB2 Error: unknown error (-1): _doQuery: [Error message: Could not execute statement]
+[Last executed query: PREPARE mdb2_statement_mysql_3e09eda55999010393e5750f4f8269abf282e8410 FROM 'SELECT vars, ip, changed FROM session WHERE sess_id = ?']
+[Native code: 2006]
+[Native message: MySQL server has gone away]
+
+[14-Jan-2013 14:42:41 -0700]: DB Error: _doQuery: [Error message: Could not execute statement]
+[Last executed query: PREPARE mdb2_statement_mysql_3e09eda55999010393e5750f4f8269abf282e8410 FROM 'SELECT vars, ip, changed FROM session WHERE sess_id = ?']
+[Native code: 2006]
+[Native message: MySQL server has gone away]
+ in /home/content/63/10156063/html/correo/program/include/rcube_mdb2.php on line 296 (POST /?_task=mail&_action=moveto?_task=&_action=)
+[14-Jan-2013 21:42:41 UTC] MDB2 Error: unknown error (-1): _doQuery: [Error message: Could not execute statement]
+[Last executed query: PREPARE mdb2_statement_mysql_4261963e242c990595b0b5775b6d884a8fec8500f FROM 'INSERT INTO session (sess_id, vars, ip, created, changed) VALUES (?, ?, ?, \'2013-01-14 14:42:41\', \'2013-01-14 14:42:41\')']
+[Native code: 2006]
+[Native message: MySQL server has gone away]
+
+[14-Jan-2013 14:42:41 -0700]: DB Error: _doQuery: [Error message: Could not execute statement]
+[Last executed query: PREPARE mdb2_statement_mysql_4261963e242c990595b0b5775b6d884a8fec8500f FROM 'INSERT INTO session (sess_id, vars, ip, created, changed) VALUES (?, ?, ?, \'2013-01-14 14:42:41\', \'2013-01-14 14:42:41\')']
+[Native code: 2006]
+[Native message: MySQL server has gone away]
+ in /home/content/63/10156063/html/correo/program/include/rcube_mdb2.php on line 296 (POST /?_task=mail&_action=moveto?_task=&_action=)
+[14-Jan-2013 21:42:46 UTC] MDB2 Error: unknown error (-1): _doQuery: [Error message: Could not execute statement]
+[Last executed query: PREPARE mdb2_statement_mysql_340c29b440dc3e0d84fb240cb65c39dc94f0b7a80 FROM 'SELECT vars, ip, changed FROM session WHERE sess_id = ?']
+[Native code: 2006]
+[Native message: MySQL server has gone away]
+
+[14-Jan-2013 14:42:46 -0700]: DB Error: _doQuery: [Error message: Could not execute statement]
+[Last executed query: PREPARE mdb2_statement_mysql_340c29b440dc3e0d84fb240cb65c39dc94f0b7a80 FROM 'SELECT vars, ip, changed FROM session WHERE sess_id = ?']
+[Native code: 2006]
+[Native message: MySQL server has gone away]
+ in /home/content/63/10156063/html/correo/program/include/rcube_mdb2.php on line 296 (POST /?_task=mail&_action=moveto?_task=&_action=)
+[14-Jan-2013 21:42:46 UTC] MDB2 Error: unknown error (-1): _doQuery: [Error message: Could not execute statement]
+[Last executed query: PREPARE mdb2_statement_mysql_4403fcdcc3031e724d5d89a515d7d0cb07e5aa4e5 FROM 'INSERT INTO session (sess_id, vars, ip, created, changed) VALUES (?, ?, ?, \'2013-01-14 14:42:46\', \'2013-01-14 14:42:46\')']
+[Native code: 2006]
+[Native message: MySQL server has gone away]
+
+[14-Jan-2013 14:42:46 -0700]: DB Error: _doQuery: [Error message: Could not execute statement]
+[Last executed query: PREPARE mdb2_statement_mysql_4403fcdcc3031e724d5d89a515d7d0cb07e5aa4e5 FROM 'INSERT INTO session (sess_id, vars, ip, created, changed) VALUES (?, ?, ?, \'2013-01-14 14:42:46\', \'2013-01-14 14:42:46\')']
+[Native code: 2006]
+[Native message: MySQL server has gone away]
+ in /home/content/63/10156063/html/correo/program/include/rcube_mdb2.php on line 296 (POST /?_task=mail&_action=moveto?_task=&_action=)
+[14-Jan-2013 21:42:47 UTC] MDB2 Error: unknown error (-1): _doQuery: [Error message: Could not execute statement]
+[Last executed query: PREPARE mdb2_statement_mysql_330a54b39f1adca5c34b1199b75e88c9856e2a564 FROM 'SELECT vars, ip, changed FROM session WHERE sess_id = ?']
+[Native code: 2006]
+[Native message: MySQL server has gone away]
+
+[14-Jan-2013 14:42:47 -0700]: DB Error: _doQuery: [Error message: Could not execute statement]
+[Last executed query: PREPARE mdb2_statement_mysql_330a54b39f1adca5c34b1199b75e88c9856e2a564 FROM 'SELECT vars, ip, changed FROM session WHERE sess_id = ?']
+[Native code: 2006]
+[Native message: MySQL server has gone away]
+ in /home/content/63/10156063/html/correo/program/include/rcube_mdb2.php on line 296 (POST /?_task=mail&_action=moveto?_task=&_action=)
+[14-Jan-2013 21:42:47 UTC] MDB2 Error: unknown error (-1): _doQuery: [Error message: Could not execute statement]
+[Last executed query: PREPARE mdb2_statement_mysql_48567a8ae65788bbd6fbc63e088239a63a4bd5962 FROM 'INSERT INTO session (sess_id, vars, ip, created, changed) VALUES (?, ?, ?, \'2013-01-14 14:42:47\', \'2013-01-14 14:42:47\')']
+[Native code: 2006]
+[Native message: MySQL server has gone away]
+
+[14-Jan-2013 14:42:47 -0700]: DB Error: _doQuery: [Error message: Could not execute statement]
+[Last executed query: PREPARE mdb2_statement_mysql_48567a8ae65788bbd6fbc63e088239a63a4bd5962 FROM 'INSERT INTO session (sess_id, vars, ip, created, changed) VALUES (?, ?, ?, \'2013-01-14 14:42:47\', \'2013-01-14 14:42:47\')']
+[Native code: 2006]
+[Native message: MySQL server has gone away]
+ in /home/content/63/10156063/html/correo/program/include/rcube_mdb2.php on line 296 (POST /?_task=mail&_action=moveto?_task=&_action=)
+[14-Jan-2013 21:43:08 UTC] MDB2 Error: unknown error (-1): _doQuery: [Error message: Could not execute statement]
+[Last executed query: PREPARE mdb2_statement_mysql_3c2c17baa2873c3d46d615e2f83efe7f88b03a6c2 FROM 'SELECT vars, ip, changed FROM session WHERE sess_id = ?']
+[Native code: 2006]
+[Native message: MySQL server has gone away]
+
+[14-Jan-2013 14:43:08 -0700]: DB Error: _doQuery: [Error message: Could not execute statement]
+[Last executed query: PREPARE mdb2_statement_mysql_3c2c17baa2873c3d46d615e2f83efe7f88b03a6c2 FROM 'SELECT vars, ip, changed FROM session WHERE sess_id = ?']
+[Native code: 2006]
+[Native message: MySQL server has gone away]
+ in /home/content/63/10156063/html/correo/program/include/rcube_mdb2.php on line 296 (GET /?_task=mail&_action=check-recent&_mbox=INBOX&_list=1&_remote=1&_unlock=0&_=1358199729953)
+[14-Jan-2013 21:43:08 UTC] MDB2 Error: unknown error (-1): _doQuery: [Error message: Could not execute statement]
+[Last executed query: PREPARE mdb2_statement_mysql_4188442d64813976fd80feb97766f335ac6d4ad59 FROM 'INSERT INTO session (sess_id, vars, ip, created, changed) VALUES (?, ?, ?, \'2013-01-14 14:43:08\', \'2013-01-14 14:43:08\')']
+[Native code: 2006]
+[Native message: MySQL server has gone away]
+
+[14-Jan-2013 14:43:08 -0700]: DB Error: _doQuery: [Error message: Could not execute statement]
+[Last executed query: PREPARE mdb2_statement_mysql_4188442d64813976fd80feb97766f335ac6d4ad59 FROM 'INSERT INTO session (sess_id, vars, ip, created, changed) VALUES (?, ?, ?, \'2013-01-14 14:43:08\', \'2013-01-14 14:43:08\')']
+[Native code: 2006]
+[Native message: MySQL server has gone away]
+ in /home/content/63/10156063/html/correo/program/include/rcube_mdb2.php on line 296 (GET /?_task=mail&_action=check-recent&_mbox=INBOX&_list=1&_remote=1&_unlock=0&_=1358199729953)
+[14-Jan-2013 16:02:18 -0700]: IMAP Error: Login failed for lcaballero@cbguadalajara.com. from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[14-Jan-2013 16:02:34 -0700]: IMAP Error: Login failed for lcaballero@cbguadalajara.com. from 189.169.61.76. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[14-Jan-2013 23:41:48 UTC] MDB2 Error: unknown error (-1): _doQuery: [Error message: Could not execute statement]
+[Last executed query: PREPARE mdb2_statement_mysql_3f34af885937416d93e02c195f2fc42420880987b FROM 'SELECT vars, ip, changed FROM session WHERE sess_id = ?']
+[Native code: 2006]
+[Native message: MySQL server has gone away]
+
+[14-Jan-2013 16:41:48 -0700]: DB Error: _doQuery: [Error message: Could not execute statement]
+[Last executed query: PREPARE mdb2_statement_mysql_3f34af885937416d93e02c195f2fc42420880987b FROM 'SELECT vars, ip, changed FROM session WHERE sess_id = ?']
+[Native code: 2006]
+[Native message: MySQL server has gone away]
+ in /home/content/63/10156063/html/correo/program/include/rcube_mdb2.php on line 296 (GET /?_task=mail&_action=get&_mbox=INBOX&_uid=38&_part=2&_download=1)
+[14-Jan-2013 23:41:48 UTC] MDB2 Error: unknown error (-1): _doQuery: [Error message: Could not execute statement]
+[Last executed query: PREPARE mdb2_statement_mysql_4b4b8d38476f3b04371f318eb3a3af37e7aef4e69 FROM 'INSERT INTO session (sess_id, vars, ip, created, changed) VALUES (?, ?, ?, \'2013-01-14 16:41:48\', \'2013-01-14 16:41:48\')']
+[Native code: 2006]
+[Native message: MySQL server has gone away]
+
+[14-Jan-2013 16:41:48 -0700]: DB Error: _doQuery: [Error message: Could not execute statement]
+[Last executed query: PREPARE mdb2_statement_mysql_4b4b8d38476f3b04371f318eb3a3af37e7aef4e69 FROM 'INSERT INTO session (sess_id, vars, ip, created, changed) VALUES (?, ?, ?, \'2013-01-14 16:41:48\', \'2013-01-14 16:41:48\')']
+[Native code: 2006]
+[Native message: MySQL server has gone away]
+ in /home/content/63/10156063/html/correo/program/include/rcube_mdb2.php on line 296 (GET /?_task=mail&_action=get&_mbox=INBOX&_uid=38&_part=2&_download=1)
+[15-Jan-2013 08:16:35 -0700]: IMAP Error: Login failed for america_felix@cbguadalajara.com from 189.169.142.79. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[15-Jan-2013 08:17:27 -0700]: IMAP Error: Login failed for afelix@cbguadalajara.com from 189.169.142.79. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[15-Jan-2013 08:17:38 -0700]: IMAP Error: Login failed for afelix@cbguadalajara.com from 189.169.142.79. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[15-Jan-2013 08:24:03 -0700]: IMAP Error: Login failed for jaguilar@cbguadalajara.com from 189.169.142.79. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[15-Jan-2013 09:08:35 -0700]: IMAP Error: Login failed for jperez@cbguadalajara.com from 189.169.142.79. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[15-Jan-2013 09:08:53 -0700]: IMAP Error: Login failed for jorge_perez@cbguadalajara.com from 189.169.142.79. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[15-Jan-2013 09:09:44 -0700]: IMAP Error: Login failed for jperez@cbguadalajara.com from 189.169.142.79. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[15-Jan-2013 09:11:21 -0700]: IMAP Error: Login failed for jperez@cbguadalajara.com from 189.169.142.79. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[15-Jan-2013 09:11:30 -0700]: IMAP Error: Login failed for jperez@cbguadalajara.com from 189.169.142.79. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[15-Jan-2013 09:11:46 -0700]: IMAP Error: Login failed for jperez@cbguadalajara.com from 189.169.142.79. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[15-Jan-2013 09:55:16 -0700]: IMAP Error: Login failed for juana_saldania@cbguadalajara.com from 189.169.142.79. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[15-Jan-2013 09:55:30 -0700]: IMAP Error: Login failed for juana_saldania@cbguadalajara.com from 189.169.142.79. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[15-Jan-2013 09:55:45 -0700]: IMAP Error: Login failed for juana_saldania@cbguadalajara.com from 189.169.142.79. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[15-Jan-2013 10:48:15 -0700]: IMAP Error: Login failed for gcorrea@cbguadalajara.com from 129.33.49.235. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[15-Jan-2013 10:48:37 -0700]: IMAP Error: Login failed for gcorrea@cbguadalajara.com from 129.33.49.235. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[15-Jan-2013 10:49:03 -0700]: IMAP Error: Login failed for gcorrea@cbguadalajara.com from 129.33.49.235. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[15-Jan-2013 13:23:59 -0700]: IMAP Error: Login failed for leticia_rosas@cbguadalajara.com from 189.169.142.79. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[15-Jan-2013 13:24:06 -0700]: IMAP Error: Login failed for leticia_rosas@cbguadalajara.com from 189.169.142.79. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[15-Jan-2013 13:29:09 -0700]: IMAP Error: Login failed for lcaballer@cbguadalajara.com from 189.169.142.79. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[15-Jan-2013 13:29:38 -0700]: IMAP Error: Login failed for lcaballer@cbguadalajara.com from 189.169.142.79. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[15-Jan-2013 21:37:17 UTC] PHP Warning:  pspell_new() [<a href='function.pspell-new'>function.pspell-new</a>]: PSPELL couldn't open the dictionary. reason: No word lists can be found for the language &quot;es&quot;. in /home/content/63/10156063/html/correo/program/include/rcube_spellchecker.php on line 330
+[15-Jan-2013 21:39:15 UTC] PHP Warning:  pspell_new() [<a href='function.pspell-new'>function.pspell-new</a>]: PSPELL couldn't open the dictionary. reason: No word lists can be found for the language &quot;es&quot;. in /home/content/63/10156063/html/correo/program/include/rcube_spellchecker.php on line 330
+[16-Jan-2013 11:07:17 -0700]: IMAP Error: Login failed for mgastelum@cbguadalajara.com from 189.169.138.112. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[16-Jan-2013 19:28:54 UTC] PHP Warning:  pspell_new() [<a href='function.pspell-new'>function.pspell-new</a>]: PSPELL couldn't open the dictionary. reason: No word lists can be found for the language &quot;es&quot;. in /home/content/63/10156063/html/correo/program/include/rcube_spellchecker.php on line 330
+[16-Jan-2013 20:04:39 UTC] PHP Warning:  pspell_new() [<a href='function.pspell-new'>function.pspell-new</a>]: PSPELL couldn't open the dictionary. reason: No word lists can be found for the language &quot;es&quot;. in /home/content/63/10156063/html/correo/program/include/rcube_spellchecker.php on line 330
+[16-Jan-2013 21:09:41 UTC] MDB2 Error: unknown error (-1): _doQuery: [Error message: Could not execute statement]
+[Last executed query: PREPARE mdb2_statement_mysql_3a171a0a004e7ffffcb989bf6dea2e29002e374f5 FROM 'SELECT vars, ip, changed FROM session WHERE sess_id = ?']
+[Native code: 2006]
+[Native message: MySQL server has gone away]
+
+[16-Jan-2013 14:09:41 -0700]: DB Error: _doQuery: [Error message: Could not execute statement]
+[Last executed query: PREPARE mdb2_statement_mysql_3a171a0a004e7ffffcb989bf6dea2e29002e374f5 FROM 'SELECT vars, ip, changed FROM session WHERE sess_id = ?']
+[Native code: 2006]
+[Native message: MySQL server has gone away]
+ in /home/content/63/10156063/html/correo/program/include/rcube_mdb2.php on line 296 (GET /?_task=mail&_action=check-recent&_mbox=INBOX&_list=1&_remote=1&_unlock=0&_=1358370520653)
+[16-Jan-2013 21:09:41 UTC] MDB2 Error: unknown error (-1): _doQuery: [Error message: Could not execute statement]
+[Last executed query: PREPARE mdb2_statement_mysql_4adbbc3de8cad9ed1e7b551dfc5db12af5d7dba5e FROM 'INSERT INTO session (sess_id, vars, ip, created, changed) VALUES (?, ?, ?, \'2013-01-16 14:09:40\', \'2013-01-16 14:09:40\')']
+[Native code: 2006]
+[Native message: MySQL server has gone away]
+
+[16-Jan-2013 14:09:41 -0700]: DB Error: _doQuery: [Error message: Could not execute statement]
+[Last executed query: PREPARE mdb2_statement_mysql_4adbbc3de8cad9ed1e7b551dfc5db12af5d7dba5e FROM 'INSERT INTO session (sess_id, vars, ip, created, changed) VALUES (?, ?, ?, \'2013-01-16 14:09:40\', \'2013-01-16 14:09:40\')']
+[Native code: 2006]
+[Native message: MySQL server has gone away]
+ in /home/content/63/10156063/html/correo/program/include/rcube_mdb2.php on line 296 (GET /?_task=mail&_action=check-recent&_mbox=INBOX&_list=1&_remote=1&_unlock=0&_=1358370520653)
+[16-Jan-2013 23:08:31 UTC] PHP Warning:  mail() [<a href='function.mail'>function.mail</a>]: Bad parameters to mail() function, mail not sent. in /home/content/63/10156063/html/correo/program/include/main.inc on line 1529
+[16-Jan-2013 23:08:35 UTC] PHP Warning:  mail() [<a href='function.mail'>function.mail</a>]: Bad parameters to mail() function, mail not sent. in /home/content/63/10156063/html/correo/program/include/main.inc on line 1529
+[16-Jan-2013 23:09:00 UTC] PHP Warning:  mail() [<a href='function.mail'>function.mail</a>]: Bad parameters to mail() function, mail not sent. in /home/content/63/10156063/html/correo/program/include/main.inc on line 1529
+[16-Jan-2013 23:12:11 UTC] PHP Warning:  mail() [<a href='function.mail'>function.mail</a>]: Bad parameters to mail() function, mail not sent. in /home/content/63/10156063/html/correo/program/include/main.inc on line 1529
+[16-Jan-2013 23:14:46 UTC] PHP Warning:  mail() [<a href='function.mail'>function.mail</a>]: Bad parameters to mail() function, mail not sent. in /home/content/63/10156063/html/correo/program/include/main.inc on line 1529
+[16-Jan-2013 23:16:01 UTC] PHP Warning:  mail() [<a href='function.mail'>function.mail</a>]: Bad parameters to mail() function, mail not sent. in /home/content/63/10156063/html/correo/program/include/main.inc on line 1529
+[16-Jan-2013 23:17:53 UTC] PHP Warning:  mail() [<a href='function.mail'>function.mail</a>]: Bad parameters to mail() function, mail not sent. in /home/content/63/10156063/html/correo/program/include/main.inc on line 1529
+[16-Jan-2013 16:19:46 -0700]: IMAP Error: Login failed for fmuleiro@cbandares.com from 189.169.142.79. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[16-Jan-2013 16:20:16 -0700]: IMAP Error: Login failed for fmuleiro@cbguadalajara.com from 189.169.142.79. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[16-Jan-2013 23:31:40 UTC] PHP Warning:  mail() [<a href='function.mail'>function.mail</a>]: Bad parameters to mail() function, mail not sent. in /home/content/63/10156063/html/correo/program/include/main.inc on line 1529
+[16-Jan-2013 23:31:56 UTC] PHP Warning:  mail() [<a href='function.mail'>function.mail</a>]: Bad parameters to mail() function, mail not sent. in /home/content/63/10156063/html/correo/program/include/main.inc on line 1529
+[16-Jan-2013 23:51:35 UTC] PHP Warning:  mail() [<a href='function.mail'>function.mail</a>]: Bad parameters to mail() function, mail not sent. in /home/content/63/10156063/html/correo/program/include/main.inc on line 1529
+[16-Jan-2013 23:51:43 UTC] PHP Warning:  mail() [<a href='function.mail'>function.mail</a>]: Bad parameters to mail() function, mail not sent. in /home/content/63/10156063/html/correo/program/include/main.inc on line 1529
+[17-Jan-2013 00:01:10 UTC] PHP Warning:  mail() [<a href='function.mail'>function.mail</a>]: Bad parameters to mail() function, mail not sent. in /home/content/63/10156063/html/correo/program/include/main.inc on line 1529
+[16-Jan-2013 17:03:30 -0700]: IMAP Error: Login failed for fmuleiro@cbguadalajara.com from 189.169.142.79. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[16-Jan-2013 17:41:08 -0700]: IMAP Error: Login failed for ymancilla@cbguadalajara.com from 189.169.142.79. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
+[17-Jan-2013 01:47:47 UTC] PHP Warning:  mail() [<a href='function.mail'>function.mail</a>]: Bad parameters to mail() function, mail not sent. in /home/content/63/10156063/html/correo/program/include/main.inc on line 1529
+[17-Jan-2013 01:47:53 UTC] PHP Warning:  mail() [<a href='function.mail'>function.mail</a>]: Bad parameters to mail() function, mail not sent. in /home/content/63/10156063/html/correo/program/include/main.inc on line 1529
+[17-Jan-2013 01:48:11 UTC] PHP Warning:  mail() [<a href='function.mail'>function.mail</a>]: Bad parameters to mail() function, mail not sent. in /home/content/63/10156063/html/correo/program/include/main.inc on line 1529
+[17-Jan-2013 01:48:30 UTC] PHP Warning:  mail() [<a href='function.mail'>function.mail</a>]: Bad parameters to mail() function, mail not sent. in /home/content/63/10156063/html/correo/program/include/main.inc on line 1529
+[17-Jan-2013 01:48:52 UTC] PHP Warning:  mail() [<a href='function.mail'>function.mail</a>]: Bad parameters to mail() function, mail not sent. in /home/content/63/10156063/html/correo/program/include/main.inc on line 1529
+[17-Jan-2013 01:49:24 UTC] PHP Warning:  mail() [<a href='function.mail'>function.mail</a>]: Bad parameters to mail() function, mail not sent. in /home/content/63/10156063/html/correo/program/include/main.inc on line 1529
+[17-Jan-2013 01:50:03 UTC] PHP Warning:  mail() [<a href='function.mail'>function.mail</a>]: Bad parameters to mail() function, mail not sent. in /home/content/63/10156063/html/correo/program/include/main.inc on line 1529
+[17-Jan-2013 01:50:51 UTC] PHP Warning:  mail() [<a href='function.mail'>function.mail</a>]: Bad parameters to mail() function, mail not sent. in /home/content/63/10156063/html/correo/program/include/main.inc on line 1529
+[17-Jan-2013 01:51:17 UTC] PHP Warning:  mail() [<a href='function.mail'>function.mail</a>]: Bad parameters to mail() function, mail not sent. in /home/content/63/10156063/html/correo/program/include/main.inc on line 1529
+[16-Jan-2013 21:00:38 -0700]: IMAP Error: Login failed for lrosas@cbguadalajara.com from 187.163.22.251. LOGIN: Login failed. in /home/content/63/10156063/html/correo/program/include/rcube_imap.php on line 191 (POST /?_task=login&_action=login)
